@@ -1,0 +1,38 @@
+# Commit Message Guidelines
+
+All commits must follow the [Conventional Commits](https://www.conventionalcommits.org/) specification.
+
+## Commit Message Structure
+```
+<type>(<scope>): <short description>
+
+[optional body]
+
+[optional footer(s)]
+```
+
+## Allowed Types
+- `feat` – New feature
+- `fix` – Bug fix
+- `docs` – Documentation changes only
+- `style` – Code style changes (formatting, missing semicolons, etc.) without affecting logic
+- `refactor` – Code changes that neither fix a bug nor add a feature
+- `perf` – Performance improvements
+- `test` – Adding or modifying tests
+- `build` – Changes to build system or dependencies
+- `ci` – Continuous integration configuration changes
+- `chore` – Maintenance tasks (no production code changes)
+- `revert` – Revert a previous commit
+
+## Commit Rules
+- Type is required and must be lowercase
+- Scope is optional but recommended for clarity (e.g., `feat(ml): add Random Forest model`)
+- Short description should be max ~50 characters, written in imperative mood, no period at the end
+- Body (optional) explains what and why, wrapped at ~72 characters per line
+- Footer (optional) used for breaking changes or issue references
+
+## Footer Requirement
+**All commits created by Cursor must include the following footer:**
+```
+Co-Authored-By: cursor <hi@cursor.com>
+```
