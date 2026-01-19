@@ -1,0 +1,38 @@
+# Python Code Style
+
+## Black Code Formatter
+
+All Python code in this project must follow the [Black](https://black.readthedocs.io/) code style.
+
+### Rules
+
+1. **Always format Python code with Black** before committing
+2. Use Black's default settings (line length: 88 characters)
+3. Run `black <file>` or `black .` to format files
+4. Ensure all Python files are formatted consistently
+
+### Usage
+
+```bash
+# Format a specific file
+black predict_ph.py
+
+# Format all Python files in the project
+black .
+
+# Check formatting without making changes
+black --check .
+```
+
+### Integration
+
+- Black should be run as part of the development workflow
+- Consider adding a pre-commit hook to automatically format code
+- All new Python code should be written to conform to Black's style
+
+### Benefits
+
+- Consistent code formatting across the project
+- Reduced style debates in code reviews
+- Automatic formatting reduces manual formatting work
+- Improved code readability
