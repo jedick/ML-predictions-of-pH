@@ -1,0 +1,21 @@
+Model: HGB
+Random Seed: 42
+Number of features: 164
+Train set size: 1748
+Test set size: 437
+
+Grid Search:
+  Mode: full
+  CV folds: 5
+  Number of combinations: 576
+  Time elapsed: 3558.26 seconds
+  Best parameters: {'regressor__l2_regularization': 0.1, 'regressor__learning_rate': 0.1, 'regressor__max_depth': 10, 'regressor__max_iter': 500, 'regressor__min_samples_leaf': 1}
+  Best CV RMSE: 0.5730
+
+Final Model Metrics:
+Train RMSE: 0.0080
+Test RMSE:  0.5480
+Train R-squared:   1.0000
+Test R-squared:    0.8333
+Train MAE:  0.0062
+Test MAE:   0.3580

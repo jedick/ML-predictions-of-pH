@@ -1,0 +1,15 @@
+Model: LINEAR
+Random Seed: 42
+Number of features: 164
+Train set size: 1748
+Test set size: 437
+
+Grid Search: Not applicable (linear regression)
+
+Final Model Metrics:
+Train RMSE: 0.8278
+Test RMSE:  77.8416
+Train R-squared:   0.5708
+Test R-squared:    -3363.8647
+Train MAE:  0.5380
+Test MAE:   4.4094

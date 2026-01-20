@@ -1,0 +1,21 @@
+Model: RF
+Random Seed: 42
+Number of features: 164
+Train set size: 1748
+Test set size: 437
+
+Grid Search:
+  Mode: full
+  CV folds: 5
+  Number of combinations: 432
+  Time elapsed: 2422.23 seconds
+  Best parameters: {'regressor__max_depth': 30, 'regressor__max_features': None, 'regressor__min_samples_leaf': 1, 'regressor__min_samples_split': 2, 'regressor__n_estimators': 500}
+  Best CV RMSE: 0.6032
+
+Final Model Metrics:
+Train RMSE: 0.2139
+Test RMSE:  0.5815
+Train R-squared:   0.9714
+Test R-squared:    0.8122
+Train MAE:  0.1364
+Test MAE:   0.3738
