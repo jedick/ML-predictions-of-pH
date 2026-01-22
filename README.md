@@ -129,6 +129,51 @@ python predict_ph.py --model rf \
 
 </details>
 
-## Project history
+## HyenaDNA pH regression training
 
-_Notable changes to architecture, data, features, or results will be documented here._
+The `train_hyenadna_ph.py` script trains a HyenaDNA model with a regression head to predict continuous pH values from DNA sequences. The script uses pretrained HyenaDNA weights, concatenates multiple sequences per sample with [SEP] tokens, and trains using plain PyTorch.
+
+```bash
+# Basic training with defaults (tiny model, downloads from HuggingFace)
+python train_hyenadna_ph.py --download-model
+
+# Custom configuration with larger model
+python train_hyenadna_ph.py \
+    --model-name hyenadna-small-32k-seqlen \
+    --head-architecture mlp3 \
+    --pooling-mode last \
+    --batch-size 2 \
+    --learning-rate 5e-5 \
+    --num-epochs 20 \
+    --freeze-backbone \
+    --download-model
+
+# Train with frozen backbone (only regression head)
+python train_hyenadna_ph.py --freeze-backbone --download-model
+```
+
+<details>
+<summary>Details</summary>
+
+The script implements a separate `RegressionHead` class that maintains separation from the HyenaDNA codebase. It loads DNA sequences from the HuggingFace dataset (`jedick/microbial-DNA-pH`), concatenates multiple sequences per sample with [SEP] tokens up to the model's maximum length, and fine-tunes pretrained HyenaDNA weights for pH prediction.
+
+- **Model options**: Supports all HyenaDNA model sizes (tiny-1k to large-1m-seqlen), default is tiny-1k-seqlen for testing
+- **Regression head architectures**: Linear, 2-layer MLP (default), 3-layer MLP, or 2-layer MLP with LayerNorm
+- **Pooling modes**: Mean pooling (default), last token, first token, or sum pooling
+- **Sequence handling**: Concatenates multiple DNA sequences per sample with [SEP] tokens, truncates to max_length if needed
+- **Training options**: Can freeze backbone (only train head) or fine-tune entire model, configurable loss functions (MSE, MAE, SmoothL1, Huber)
+- **Evaluation**: Computes MSE, RMSE, MAE, and R² metrics on train/val/test splits
+
+**Output Files:**
+- `best_model.pt`: Best model checkpoint based on validation loss
+- `training_log.json`: Training history with metrics per epoch
+- `test_predictions.csv`: Test set predictions with true and predicted pH values
+- `config.json`: Training configuration used
+
+**Key Hyperparameters:**
+- Default batch size: 4 (adjust based on GPU memory and sequence length)
+- Default learning rate: 1e-4 (typical for fine-tuning)
+- Default loss: SmoothL1Loss (good balance between MSE and MAE)
+- Train/val/test split: 80/10/10 (configurable)
+
+</details>
