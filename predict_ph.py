@@ -10,7 +10,9 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 import time
-from sklearn.model_selection import train_test_split, ParameterGrid, cross_val_score
+from sklearn.model_selection import ParameterGrid, cross_val_score
+
+from data_splits import DEFAULT_RANDOM_SEED, get_train_val_test_ids, is_sra_sample
 from sklearn.preprocessing import Normalizer
 from sklearn.linear_model import LinearRegression
 from sklearn.neighbors import KNeighborsRegressor
@@ -33,7 +35,9 @@ except ImportError:
 warnings.filterwarnings("ignore")
 
 
-def load_and_preprocess_data(sample_data_path, phylum_counts_path, random_seed=42):
+def load_and_preprocess_data(
+    sample_data_path, phylum_counts_path, random_seed=DEFAULT_RANDOM_SEED
+):
     """
     Load and preprocess data for pH prediction.
 
@@ -56,12 +60,14 @@ def load_and_preprocess_data(sample_data_path, phylum_counts_path, random_seed=4
     print("Loading sample data...")
     sample_data = pd.read_csv(sample_data_path)
 
-    # Filter to Bacteria domain and remove missing pH
+    # Filter to Bacteria domain, remove missing pH, and restrict to SRA samples (SRR*, ERR*, DRR*)
     print("Filtering data...")
     sample_data = sample_data[sample_data["domain"] == "Bacteria"].copy()
     sample_data = sample_data.dropna(subset=["pH"])
+    sra_mask = sample_data["sample_id"].astype(str).apply(is_sra_sample)
+    sample_data = sample_data.loc[sra_mask].reset_index(drop=True)
 
-    print(f"Sample data shape after filtering: {sample_data.shape}")
+    print(f"Sample data shape after filtering (SRA only): {sample_data.shape}")
 
     # Load phylum counts (pandas can read .xz compressed files directly)
     print("Loading phylum counts from compressed file...")
@@ -69,14 +75,24 @@ def load_and_preprocess_data(sample_data_path, phylum_counts_path, random_seed=4
 
     print(f"Phylum counts shape: {phylum_counts.shape}")
 
-    # Join on study_name and sample_id
+    # Join on sample_id only (preserves all samples after filtering)
     print("Joining datasets...")
     merged_data = sample_data.merge(
         phylum_counts,
-        left_on=["study_name", "sample_id"],
-        right_on=["study_name", "sample_id"],
+        left_on=["sample_id"],
+        right_on=["sample_id"],
         how="inner",
+        suffixes=("", "_y"),
     )
+
+    # Keep study_name from sample_data (left side of merge)
+    if "study_name_y" in merged_data.columns:
+        merged_data = merged_data.drop(columns=["study_name_y"])
+    if (
+        "study_name" not in merged_data.columns
+        and "study_name_x" in merged_data.columns
+    ):
+        merged_data = merged_data.rename(columns={"study_name_x": "study_name"})
 
     print(f"Merged data shape: {merged_data.shape}")
 
@@ -84,36 +100,29 @@ def load_and_preprocess_data(sample_data_path, phylum_counts_path, random_seed=4
     phylum_cols = [col for col in merged_data.columns if col.startswith("phylum__")]
     print(f"Number of phylum features: {len(phylum_cols)}")
 
-    # Extract features (phylum counts) and target (pH)
-    X = merged_data[phylum_cols].values
-    y = merged_data["pH"].values
-    environment = merged_data["environment"].values
+    # Use shared stratified 75:5:20 split (train+val=80%, test=20%); traditional ML uses 80% train, 20% test
+    print("Creating stratified train-val-test split (75:5:20)...")
+    train_ids, val_ids, test_ids = get_train_val_test_ids(sample_data_path, random_seed)
+    train_val_ids = train_ids | val_ids  # Union of train and val sets
 
-    # Store metadata for test set (study_name and sample_id)
-    metadata = merged_data[["study_name", "sample_id"]].copy()
+    # Match on sample_id only
+    train_val_mask = merged_data["sample_id"].isin(train_val_ids).values
+    test_mask = merged_data["sample_id"].isin(test_ids).values
 
-    # Create stratified train-test split (80-20)
-    print("Creating stratified train-test split...")
-    (
-        X_train,
-        X_test,
-        y_train,
-        y_test,
-        env_train,
-        env_test,
-        metadata_train,
-        metadata_test,
-    ) = train_test_split(
-        X,
-        y,
-        environment,
-        metadata,
-        test_size=0.2,
-        random_state=random_seed,
-        stratify=environment,
+    X_train = merged_data.loc[train_val_mask, phylum_cols].values
+    X_test = merged_data.loc[test_mask, phylum_cols].values
+    y_train = merged_data.loc[train_val_mask, "pH"].values
+    y_test = merged_data.loc[test_mask, "pH"].values
+    metadata_test = (
+        merged_data.loc[test_mask, ["study_name", "sample_id"]]
+        .copy()
+        .reset_index(drop=True)
     )
 
-    print(f"Train set size: {X_train.shape[0]}")
+    env_train = merged_data.loc[train_val_mask, "environment"].values
+    env_test = merged_data.loc[test_mask, "environment"].values
+
+    print(f"Train set size (train+val): {X_train.shape[0]}")
     print(f"Test set size: {X_test.shape[0]}")
     print(f"Train environment distribution:\n{pd.Series(env_train).value_counts()}")
     print(f"Test environment distribution:\n{pd.Series(env_test).value_counts()}")
@@ -287,7 +296,7 @@ def main():
     parser.add_argument(
         "--random-seed",
         type=int,
-        default=42,
+        default=DEFAULT_RANDOM_SEED,
         help="Random seed for reproducibility (default: 42)",
     )
     parser.add_argument(

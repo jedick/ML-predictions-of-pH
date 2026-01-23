@@ -24,7 +24,6 @@ from typing import Set, Tuple
 
 import requests
 
-
 # Global variables for cleanup
 temp_files: Set[Path] = set()
 interrupted = False

@@ -20,6 +20,8 @@ import torch.nn as nn
 import torch.nn.functional as F
 from datasets import load_dataset
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+
+from data_splits import DEFAULT_RANDOM_SEED, get_train_val_test_ids
 from torch.utils.data import DataLoader, Dataset
 from tqdm import tqdm
 
@@ -190,6 +192,8 @@ class pHDataset(Dataset):
         return {
             "input_ids": torch.LongTensor(token_ids),
             "ph": torch.tensor(ph, dtype=torch.float32),
+            "study_name": item.get("study_name", ""),
+            "sample_id": item.get("sample_id", ""),
         }
 
 
@@ -272,18 +276,21 @@ def concatenate_sequences(
     return result
 
 
-def collate_fn(batch: List[Dict]) -> Dict[str, torch.Tensor]:
+def collate_fn(batch: List[Dict]) -> Dict:
     """
     Collate function for DataLoader.
 
     Args:
-        batch: List of dicts with 'input_ids' and 'ph'
+        batch: List of dicts with 'input_ids', 'ph', 'study_name', 'sample_id'
 
     Returns:
-        Batched tensors with padding
+        Dictionary with batched tensors (input_ids, attention_mask, ph) and
+        lists (study_name, sample_id)
     """
     input_ids = [item["input_ids"] for item in batch]
     ph_values = torch.stack([item["ph"] for item in batch])
+    study_names = [item.get("study_name", "") for item in batch]
+    sample_ids = [item.get("sample_id", "") for item in batch]
 
     # Find max length in batch
     max_len = max(len(ids) for ids in input_ids)
@@ -304,6 +311,8 @@ def collate_fn(batch: List[Dict]) -> Dict[str, torch.Tensor]:
         "input_ids": torch.LongTensor(padded_ids),
         "attention_mask": torch.LongTensor(attention_masks),
         "ph": ph_values,
+        "study_name": study_names,
+        "sample_id": sample_ids,
     }
 
 
@@ -314,12 +323,15 @@ def load_dataset_from_hf(
     """
     Load dataset from HuggingFace.
 
+    Includes study_name and sample_id for subsetting by shared train/val/test splits.
+    HF dataset contains SRA samples only (SRR*, ERR*, DRR*).
+
     Args:
         dataset_repo: HuggingFace dataset repository
         filter_missing_ph: Whether to filter samples with missing pH
 
     Returns:
-        List of dicts with 'sequences' and 'pH'
+        List of dicts with 'sequences', 'pH', 'study_name', 'sample_id'
     """
     print(f"Loading dataset from {dataset_repo}...")
     dataset = load_dataset(dataset_repo, split="train")
@@ -334,6 +346,8 @@ def load_dataset_from_hf(
             {
                 "sequences": item["sequences"],
                 "pH": item["pH"] if item["pH"] is not None else 0.0,
+                "study_name": item["study_name"],
+                "sample_id": item["sample_id"],
             }
         )
 
@@ -610,13 +624,16 @@ def main():
         help="HuggingFace dataset repository",
     )
     parser.add_argument(
-        "--train-split", type=float, default=0.8, help="Training set fraction"
+        "--sample-data",
+        type=str,
+        default="data/sample_data.csv",
+        help="Path to sample_data.csv (for shared train/val/test split)",
     )
     parser.add_argument(
-        "--val-split", type=float, default=0.1, help="Validation set fraction"
-    )
-    parser.add_argument(
-        "--random-seed", type=int, default=42, help="Random seed for reproducibility"
+        "--random-seed",
+        type=int,
+        default=DEFAULT_RANDOM_SEED,
+        help="Random seed for reproducibility (default: 42)",
     )
 
     # Output arguments
@@ -660,25 +677,21 @@ def main():
         json.dump(vars(args), f, indent=2)
     print(f"Saved configuration to {config_path}")
 
-    # Load dataset
+    # Load dataset (HF has SRA samples only; includes study_name, sample_id)
     data = load_dataset_from_hf(args.dataset_repo, filter_missing_ph=True)
 
-    # Split data
-    np.random.seed(args.random_seed)
-    indices = np.random.permutation(len(data))
-    n_train = int(len(data) * args.train_split)
-    n_val = int(len(data) * args.val_split)
+    # Use shared stratified 75:5:20 split (same seed & test set as traditional ML)
+    train_ids, val_ids, test_ids = get_train_val_test_ids(
+        args.sample_data, args.random_seed
+    )
 
-    train_indices = indices[:n_train]
-    val_indices = indices[n_train : n_train + n_val]
-    test_indices = indices[n_train + n_val :]
-
-    train_data = [data[i] for i in train_indices]
-    val_data = [data[i] for i in val_indices]
-    test_data = [data[i] for i in test_indices]
+    # Subset HF data by sample_id for each fold
+    train_data = [d for d in data if d["sample_id"] in train_ids]
+    val_data = [d for d in data if d["sample_id"] in val_ids]
+    test_data = [d for d in data if d["sample_id"] in test_ids]
 
     print(
-        f"Data split: train={len(train_data)}, val={len(val_data)}, "
+        f"Data split (75:5:20): train={len(train_data)}, val={len(val_data)}, "
         f"test={len(test_data)}"
     )
 
@@ -797,6 +810,8 @@ def main():
     wrapped_model.eval()
     test_preds = []
     test_true = []
+    test_study_names = []
+    test_sample_ids = []
     with torch.no_grad():
         for batch in test_loader:
             input_ids = batch["input_ids"].to(device)
@@ -804,11 +819,21 @@ def main():
             ph_pred = wrapped_model(input_ids)
             test_preds.extend(ph_pred.cpu().numpy())
             test_true.extend(ph_true.cpu().numpy())
+            test_study_names.extend(batch["study_name"])
+            test_sample_ids.extend(batch["sample_id"])
 
     # Save predictions
     import pandas as pd
 
-    predictions_df = pd.DataFrame({"true_ph": test_true, "predicted_ph": test_preds})
+    predictions_df = pd.DataFrame(
+        {
+            "study_name": test_study_names,
+            "sample_id": test_sample_ids,
+            "true_ph": test_true,
+            "predicted_ph": np.round(test_preds, 3),
+            "residual": np.round(np.array(test_true) - np.array(test_preds), 3),
+        }
+    )
     predictions_path = output_dir / "test_predictions.csv"
     predictions_df.to_csv(predictions_path, index=False)
     print(f"Saved test predictions to {predictions_path}")
