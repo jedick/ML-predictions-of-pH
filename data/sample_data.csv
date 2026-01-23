@@ -67,137 +67,137 @@ HXZ+20,River & Seawater,Bacteria,C4-100m,SRR8146449,Station,C4,NA,NA,178.7,30,30
 HXZ+20,River & Seawater,Bacteria,C4-150m,SRR8146448,Station,C4,NA,NA,154.7,34,34,-0.158974
 HXZ+20,River & Seawater,Bacteria,C4-200m,SRR8146447,Station,C4,NA,NA,152.1,42,42,-0.144935
 HXZ+20,River & Seawater,Bacteria,C4-300m,SRR8146446,Station,C4,NA,NA,133.9,46.1,46.1,-0.144603
-GSBT20_Prefilter,River & Seawater,Bacteria,BUS1,SRR9049911,Region,Asia,27.39,8.23,239.7,13.1,86.45,-0.158049
-GSBT20_Prefilter,River & Seawater,Bacteria,BUS10,SRR9049912,Region,Asia,27.44,8.28,255.95,10,86.34,-0.15952
-GSBT20_Prefilter,River & Seawater,Bacteria,BUS11,SRR9049910,Region,Asia,27.39,8.29,230.95,10.4,87.32,-0.158551
-GSBT20_Prefilter,River & Seawater,Bacteria,HK1,SRR9049845,Region,Asia,30.83,8.09,189.69,-8.1,57.64,-0.153715
-GSBT20_Prefilter,River & Seawater,Bacteria,HK10,SRR9049844,Region,Asia,28,7.96,218.45,2.7,60.06,-0.154025
-GSBT20_Prefilter,River & Seawater,Bacteria,HK12,SRR9049850,Region,Asia,27.5,7.91,197.51,7,61.28,-0.155761
-GSBT20_Prefilter,River & Seawater,Bacteria,KEW1,SRR9053302,Region,Great Lakes,4.78,9.18,396.26,59.7,179.91,-0.173117
-GSBT20_Prefilter,River & Seawater,Bacteria,KEW12,SRR9053820,Region,Great Lakes,11.72,7.83,346.89,67.1,114.01,-0.16224
-GSBT20_Prefilter,River & Seawater,Bacteria,KEW13,SRR9053818,Region,Great Lakes,11.06,7.5,345.95,62.1,90.3,-0.154388
-GSBT20_Prefilter,River & Seawater,Bacteria,LA1,SRR9053559,Region,West Coast U.S.,21.67,7.9,196.26,68,120.65,-0.161781
-GSBT20_Prefilter,River & Seawater,Bacteria,LA10,SRR9053558,Region,West Coast U.S.,20.11,7.96,233.76,67.4,123.26,-0.157448
-GSBT20_Prefilter,River & Seawater,Bacteria,LA11,SRR9053552,Region,West Coast U.S.,21.11,8.21,258.13,46.6,117.24,-0.174179
-GSBT20_Prefilter,River & Seawater,Bacteria,OAK10,SRR9053239,Region,West Coast U.S.,15.94,7.58,225.63,77.1,110.37,-0.158493
-GSBT20_Prefilter,River & Seawater,Bacteria,OAK11,SRR9053241,Region,West Coast U.S.,15.39,7,229.07,100.7,100.7,-0.156946
-GSBT20_Prefilter,River & Seawater,Bacteria,OAK12,SRR9053243,Region,West Coast U.S.,15.17,7.39,243.13,94.3,116.61,-0.158684
-GSBT20_Prefilter,River & Seawater,Bacteria,SEA1,SRR9053227,Region,West Coast U.S.,14.22,7.92,239.38,69.3,121.76,-0.158451
-GSBT20_Prefilter,River & Seawater,Bacteria,SEA11,SRR9053154,Region,West Coast U.S.,12.83,7.86,240.63,71.3,120.1,-0.157644
-GSBT20_Prefilter,River & Seawater,Bacteria,SEA12,SRR9053148,Region,West Coast U.S.,13.22,7.85,243.13,74,122.3,-0.158203
-GSBT20_Prefilter,River & Seawater,Bacteria,SING1,SRR9049879,Region,Asia,29.33,6.3,181.88,77.4,35.39,-0.151466
-GSBT20_Prefilter,River & Seawater,Bacteria,SING10,SRR9049880,Region,Asia,29.28,7.81,177.82,21.7,70.3,-0.150127
-GSBT20_Prefilter,River & Seawater,Bacteria,SING12,SRR9049873,Region,Asia,29.33,7.89,178.76,22.5,75.91,-0.150444
-GSBT20_Prefilter,River & Seawater,Bacteria,BALT1,SRR9053388,Region,East Coast U.S.,24.67,7.25,245.01,68.8,83.57,-0.150061
-GSBT20_Prefilter,River & Seawater,Bacteria,BALT10,SRR9053387,Region,East Coast U.S.,25.5,8.52,283.45,95,185.07,-0.151461
-GSBT20_Prefilter,River & Seawater,Bacteria,BALT11,SRR9053385,Region,East Coast U.S.,25.56,8.57,285.64,95.8,188.85,-0.151588
-GSBT20_Prefilter,River & Seawater,Bacteria,CHA10,SRR9053218,Region,East Coast U.S.,26.5,7.6,176.57,68.9,104.57,-0.147481
-GSBT20_Prefilter,River & Seawater,Bacteria,CHA13,SRR9053224,Region,East Coast U.S.,26.33,7.65,176.26,72.8,111.42,-0.17107
-GSBT20_Prefilter,River & Seawater,Bacteria,CHA16,SRR9053066,Region,East Coast U.S.,26.44,7.72,176.57,90.5,133.3,-0.174447
-GSBT20_Prefilter,River & Seawater,Bacteria,DS1FALLzymo1,SRR9053460,Region,Great Lakes,9.67,7.69,346.89,262.1,300.82,-0.166859
-GSBT20_Prefilter,River & Seawater,Bacteria,DS1FALLzymo13,SRR9053500,Region,Great Lakes,9.67,8.52,323.14,156,241.29,-0.163819
-GSBT20_Prefilter,River & Seawater,Bacteria,DS1FALLzymo14,SRR9053499,Region,Great Lakes,9.72,7.85,322.2,212.8,260.51,-0.164879
-GSBT20_Prefilter,River & Seawater,Bacteria,EUM1,SRR9050056,Region,Europe,15.06,7.96,283.14,97.5,152.4,-0.161706
-GSBT20_Prefilter,River & Seawater,Bacteria,EUM10,SRR9050272,Region,Europe,15.17,8.02,263.76,185.1,243.45,-0.161152
-GSBT20_Prefilter,River & Seawater,Bacteria,EUM11,SRR9050270,Region,Europe,15.72,8.01,273.14,166.1,223.99,-0.158261
-GSBT20_Prefilter,River & Seawater,Bacteria,EUV1,SRR9049922,Region,Europe,16.61,7.77,245.63,156.3,200.57,-0.156067
-GSBT20_Prefilter,River & Seawater,Bacteria,EUV10,SRR9049923,Region,Europe,17,8.2,231.57,100.1,169.18,-0.158205
-GSBT20_Prefilter,River & Seawater,Bacteria,EUV11,SRR9049917,Region,Europe,17.22,8.19,220.95,94,162.56,-0.159078
-GSBT20_Prefilter,River & Seawater,Bacteria,GAL1,SRR9053730,Region,East Coast U.S.,26.89,7.4,235.01,214.3,238.11,-0.152485
-GSBT20_Prefilter,River & Seawater,Bacteria,GAL11,SRR9053113,Region,East Coast U.S.,27.44,8.24,231.57,120.3,194.25,-0.152071
-GSBT20_Prefilter,River & Seawater,Bacteria,GAL12,SRR9053463,Region,East Coast U.S.,27.44,8.28,230.95,129.5,205.84,-0.158038
-GSBT20_Prefilter,River & Seawater,Bacteria,GBFALLzymo1,SRR9053343,Region,Great Lakes,18.33,8.15,305.64,160.5,227.01,-0.159827
-GSBT20_Prefilter,River & Seawater,Bacteria,GBFALLzymo10,SRR9053342,Region,Great Lakes,20.06,8.18,302.2,198.6,267.25,-0.161495
-GSBT20_Prefilter,River & Seawater,Bacteria,GBFALLzymo11,SRR9053345,Region,Great Lakes,20.06,8.16,307.2,133.7,201.18,-0.159074
-GSBT20_Prefilter,River & Seawater,Bacteria,NY1,SRR9053331,Region,East Coast U.S.,18.33,7.2,218.76,110.7,122.27,-0.154135
-GSBT20_Prefilter,River & Seawater,Bacteria,NY11,SRR9053654,Region,East Coast U.S.,20.06,7.78,196.26,140,185.38,-0.15149
-GSBT20_Prefilter,River & Seawater,Bacteria,NY12,SRR9053656,Region,East Coast U.S.,20.72,7.76,192.51,140.3,184.61,-0.15112
-GSBT20_Prefilter,River & Seawater,Bacteria,EUN10,SRR9050003,Region,Europe,18.94,8.13,264.38,64,129.49,-0.159173
-GSBT20_Prefilter,River & Seawater,Bacteria,EUN12,SRR9049908,Region,Europe,18.67,8.14,263.13,63.7,129.71,-0.160514
-GSBT20_Prefilter,River & Seawater,Bacteria,EUN13,SRR9049902,Region,Europe,18.56,8.14,262.2,60.6,126.58,-0.159649
-GSBT20_Prefilter,River & Seawater,Bacteria,EUR1,SRR9049813,Region,Europe,13.17,9.33,334.7,53,185.36,-0.161216
-GSBT20_Prefilter,River & Seawater,Bacteria,EUR10,SRR9050314,Region,Europe,12.56,8.34,342.51,124.5,200.46,-0.162426
-GSBT20_Prefilter,River & Seawater,Bacteria,EUR11,SRR9049814,Region,Europe,12.72,8.86,350.95,100.9,206.4,-0.161932
-GSBT20_Prefilter,River & Seawater,Bacteria,EUW10,SRR9050146,Region,Europe,9.7,7.88,285.01,150.5,199.89,-0.162886
-GSBT20_Prefilter,River & Seawater,Bacteria,EUW11,SRR9050148,Region,Europe,9.7,7.89,285.01,150.3,200.25,-0.163061
-GSBT20_Prefilter,River & Seawater,Bacteria,EUW12,SRR9050150,Region,Europe,9.6,8.64,285.64,80.6,172.6,-0.162108
-GSBT20_Prefilter,River & Seawater,Bacteria,NEW1,SRR9053475,Region,East Coast U.S.,23.78,7.52,169.38,141.5,172.14,-0.154441
-GSBT20_Prefilter,River & Seawater,Bacteria,NEW10,SRR9053477,Region,East Coast U.S.,23.83,7.52,172.82,122.3,152.94,-0.156604
-GSBT20_Prefilter,River & Seawater,Bacteria,NEW11,SRR9053752,Region,East Coast U.S.,23.83,7.52,174.69,124.3,154.94,-0.152814
-GSBT20_Prefilter,River & Seawater,Bacteria,NOF1,SRR9053883,Region,East Coast U.S.,22.44,6.34,220.01,148.2,109.49,-0.143404
-GSBT20_Prefilter,River & Seawater,Bacteria,NOF10,SRR9053884,Region,East Coast U.S.,24.78,7.97,217.51,236.6,293.94,-0.147567
-GSBT20_Prefilter,River & Seawater,Bacteria,NOF11,SRR9053886,Region,East Coast U.S.,24.78,7.97,217.51,225.7,283.04,-0.147017
-GSBT20_Prefilter,River & Seawater,Archaea,SEA1,SRR9053227,Region,West Coast U.S.,14.22,7.92,239.38,69.3,121.76,-0.125381
-GSBT20_Prefilter,River & Seawater,Archaea,SEA11,SRR9053154,Region,West Coast U.S.,12.83,7.86,240.63,71.3,120.1,-0.12371
-GSBT20_Prefilter,River & Seawater,Archaea,SEA12,SRR9053148,Region,West Coast U.S.,13.22,7.85,243.13,74,122.3,-0.123497
-GSBT20_Prefilter,River & Seawater,Archaea,SING12,SRR9049873,Region,Asia,29.33,7.89,178.76,22.5,75.91,-0.136897
-GSBT20_Prefilter,River & Seawater,Archaea,CHA16,SRR9053066,Region,East Coast U.S.,26.44,7.72,176.57,90.5,133.3,-0.119243
-GSBT20_Postfilter,River & Seawater,Bacteria,BUS10post,SRR9049909,Region,Asia,27.44,8.28,255.95,10,86.34,-0.186525
-GSBT20_Postfilter,River & Seawater,Bacteria,BUS11post,SRR9049915,Region,Asia,27.39,8.29,230.95,10.4,87.32,-0.187209
-GSBT20_Postfilter,River & Seawater,Bacteria,BUS12post,SRR9050298,Region,Asia,27.33,8.29,257.51,10.7,87.61,-0.187919
-GSBT20_Postfilter,River & Seawater,Bacteria,HK10post,SRR9049843,Region,Asia,28,7.96,218.45,2.7,60.06,-0.161516
-GSBT20_Postfilter,River & Seawater,Bacteria,HK12post,SRR9049985,Region,Asia,27.5,7.91,197.51,7,61.28,-0.165156
-GSBT20_Postfilter,River & Seawater,Bacteria,HK14post,SRR9049989,Region,Asia,27.17,7.87,198.44,5.5,57.34,-0.160976
-GSBT20_Postfilter,River & Seawater,Bacteria,KEW11post,SRR9053821,Region,Great Lakes,11.33,7.51,339.08,58.4,87.19,-0.162148
-GSBT20_Postfilter,River & Seawater,Bacteria,KEW14post,SRR9053823,Region,Great Lakes,12.22,7.66,347.2,73.8,111.17,-0.165781
-GSBT20_Postfilter,River & Seawater,Bacteria,KEW15post,SRR9053827,Region,Great Lakes,11.61,7.62,345.33,75.3,110.33,-0.164643
-GSBT20_Postfilter,River & Seawater,Bacteria,LA12post,SRR9053565,Region,West Coast U.S.,21,8.21,251.88,44.7,115.32,-0.170432
-GSBT20_Postfilter,River & Seawater,Bacteria,LA14post,SRR9053865,Region,West Coast U.S.,22.28,8.18,240.32,41.2,110.37,-0.170772
-GSBT20_Postfilter,River & Seawater,Bacteria,LA15post,SRR9053863,Region,West Coast U.S.,22.83,8.21,249.38,44,115.06,-0.172548
-GSBT20_Postfilter,River & Seawater,Bacteria,OAK10post,SRR9053240,Region,West Coast U.S.,15.94,7.58,225.63,77.1,110.37,-0.175992
-GSBT20_Postfilter,River & Seawater,Bacteria,OAK11post,SRR9053242,Region,West Coast U.S.,15.39,7,229.07,100.7,100.7,-0.176617
-GSBT20_Postfilter,River & Seawater,Bacteria,OAK16post,SRR9053266,Region,West Coast U.S.,18.39,7.77,210.95,63.1,107.64,-0.188502
-GSBT20_Postfilter,River & Seawater,Bacteria,SEA11post,SRR9053149,Region,West Coast U.S.,12.83,7.86,240.63,71.3,120.1,-0.173973
-GSBT20_Postfilter,River & Seawater,Bacteria,SEA12post,SRR9053151,Region,West Coast U.S.,13.22,7.85,243.13,74,122.3,-0.170618
-GSBT20_Postfilter,River & Seawater,Bacteria,SEA13post,SRR9053262,Region,West Coast U.S.,13.39,7.86,246.88,73.7,122.59,-0.172137
-GSBT20_Postfilter,River & Seawater,Bacteria,SING10post,SRR9049881,Region,Asia,29.28,7.81,177.82,21.7,70.3,-0.167917
-GSBT20_Postfilter,River & Seawater,Bacteria,SING12post,SRR9049874,Region,Asia,29.33,7.89,178.76,22.5,75.91,-0.17003
-GSBT20_Postfilter,River & Seawater,Bacteria,SING13post,SRR9050242,Region,Asia,30.06,7.89,218.76,17.4,70.94,-0.150974
-GSBT20_Postfilter,River & Seawater,Bacteria,BALT10post,SRR9053386,Region,East Coast U.S.,25.5,8.52,283.45,95,185.07,-0.167722
-GSBT20_Postfilter,River & Seawater,Bacteria,BALT11post,SRR9053392,Region,East Coast U.S.,25.56,8.57,285.64,95.8,188.85,-0.163102
-GSBT20_Postfilter,River & Seawater,Bacteria,BALT12post,SRR9053390,Region,East Coast U.S.,25.72,8.61,295.95,94.7,190.17,-0.159265
-GSBT20_Postfilter,River & Seawater,Bacteria,CHA12post,SRR9053223,Region,East Coast U.S.,26.39,7.53,174.69,69.7,101.2,-0.177892
-GSBT20_Postfilter,River & Seawater,Bacteria,CHA14post,SRR9053065,Region,East Coast U.S.,26.39,7.68,173.44,73.8,114.21,-0.14969
-GSBT20_Postfilter,River & Seawater,Bacteria,CHA15post,SRR9053067,Region,East Coast U.S.,26.44,7.69,175.01,75.6,116.61,-0.150434
-GSBT20_Postfilter,River & Seawater,Bacteria,EUM10post,SRR9050273,Region,Europe,15.17,8.02,263.76,185.1,243.45,-0.174542
-GSBT20_Postfilter,River & Seawater,Bacteria,EUM11post,SRR9050271,Region,Europe,15.72,8.01,273.14,166.1,223.99,-0.184231
-GSBT20_Postfilter,River & Seawater,Bacteria,EUM12post,SRR9050277,Region,Europe,15.56,8.03,280.95,151.2,210.2,-0.186405
-GSBT20_Postfilter,River & Seawater,Bacteria,EUV10post,SRR9049924,Region,Europe,17,8.2,231.57,100.1,169.18,-0.171671
-GSBT20_Postfilter,River & Seawater,Bacteria,EUV11post,SRR9049918,Region,Europe,17.22,8.19,220.95,94,162.56,-0.175788
-GSBT20_Postfilter,River & Seawater,Bacteria,EUV13post,SRR9049920,Region,Europe,17.22,8.19,220.95,94,162.56,-0.180334
-GSBT20_Postfilter,River & Seawater,Bacteria,GAL10post,SRR9053289,Region,East Coast U.S.,27.17,8.24,234.7,140.6,214.49,-0.172684
-GSBT20_Postfilter,River & Seawater,Bacteria,GAL12post,SRR9053402,Region,East Coast U.S.,27.44,8.28,230.95,129.5,205.84,-0.175934
-GSBT20_Postfilter,River & Seawater,Bacteria,GAL13post,SRR9053404,Region,East Coast U.S.,27.39,8.26,230.32,124.4,199.53,-0.173049
-GSBT20_Postfilter,River & Seawater,Bacteria,NY10post,SRR9053655,Region,East Coast U.S.,20.06,7.79,193.44,137.8,183.76,-0.174814
-GSBT20_Postfilter,River & Seawater,Bacteria,NY12post,SRR9053659,Region,East Coast U.S.,20.72,7.76,192.51,140.3,184.61,-0.17858
-GSBT20_Postfilter,River & Seawater,Bacteria,NY13post,SRR9053661,Region,East Coast U.S.,20.78,7.76,194.69,143.5,187.82,-0.176033
-GSBT20_Postfilter,River & Seawater,Bacteria,EUN10post,SRR9050004,Region,Europe,18.94,8.13,264.38,64,129.49,-0.175004
-GSBT20_Postfilter,River & Seawater,Bacteria,EUN11post,SRR9049905,Region,Europe,18.83,8.14,264.38,61.5,127.54,-0.177771
-GSBT20_Postfilter,River & Seawater,Bacteria,EUN12post,SRR9049907,Region,Europe,18.67,8.14,263.13,63.7,129.71,-0.175547
-GSBT20_Postfilter,River & Seawater,Bacteria,EUR10post,SRR9050110,Region,Europe,12.56,8.34,342.51,124.5,200.46,-0.167561
-GSBT20_Postfilter,River & Seawater,Bacteria,EUR11post,SRR9049815,Region,Europe,12.72,8.86,350.95,100.9,206.4,-0.168488
-GSBT20_Postfilter,River & Seawater,Bacteria,EUR12post,SRR9049979,Region,Europe,12.61,8.65,348.14,98.6,192.15,-0.166754
-GSBT20_Postfilter,River & Seawater,Bacteria,EUW10post,SRR9050147,Region,Europe,9.7,7.88,285.01,150.5,199.89,-0.174995
-GSBT20_Postfilter,River & Seawater,Bacteria,EUW11post,SRR9050149,Region,Europe,9.7,7.89,285.01,150.3,200.25,-0.191426
-GSBT20_Postfilter,River & Seawater,Bacteria,EUW12post,SRR9050151,Region,Europe,9.6,8.64,285.64,80.6,172.6,-0.189876
-GSBT20_Postfilter,River & Seawater,Bacteria,NEW10post,SRR9053755,Region,East Coast U.S.,23.83,7.52,172.82,122.3,152.94,-0.171332
-GSBT20_Postfilter,River & Seawater,Bacteria,NEW11post,SRR9053168,Region,East Coast U.S.,23.83,7.52,174.69,124.3,154.94,-0.166894
-GSBT20_Postfilter,River & Seawater,Bacteria,NEW12post,SRR9053174,Region,East Coast U.S.,23.78,7.54,172.51,128.8,160.61,-0.172004
-GSBT20_Postfilter,River & Seawater,Bacteria,NOF10post,SRR9053885,Region,East Coast U.S.,24.78,7.97,217.51,236.6,293.94,-0.159246
-GSBT20_Postfilter,River & Seawater,Bacteria,NOF11post,SRR9053887,Region,East Coast U.S.,24.78,7.97,217.51,225.7,283.04,-0.163935
-GSBT20_Postfilter,River & Seawater,Bacteria,NOF12post,SRR9053616,Region,East Coast U.S.,24.89,7.91,211.57,216.5,270.31,-0.164803
-GSBT20_Postfilter,River & Seawater,Archaea,LA12post,SRR9053565,Region,West Coast U.S.,21,8.21,251.88,44.7,115.32,-0.121401
-GSBT20_Postfilter,River & Seawater,Archaea,OAK10post,SRR9053240,Region,West Coast U.S.,15.94,7.58,225.63,77.1,110.37,-0.122105
-GSBT20_Postfilter,River & Seawater,Archaea,OAK11post,SRR9053242,Region,West Coast U.S.,15.39,7,229.07,100.7,100.7,-0.121004
-GSBT20_Postfilter,River & Seawater,Archaea,OAK16post,SRR9053266,Region,West Coast U.S.,18.39,7.77,210.95,63.1,107.64,-0.116039
-GSBT20_Postfilter,River & Seawater,Archaea,SEA11post,SRR9053149,Region,West Coast U.S.,12.83,7.86,240.63,71.3,120.1,-0.129228
-GSBT20_Postfilter,River & Seawater,Archaea,SEA12post,SRR9053151,Region,West Coast U.S.,13.22,7.85,243.13,74,122.3,-0.125631
-GSBT20_Postfilter,River & Seawater,Archaea,SEA13post,SRR9053262,Region,West Coast U.S.,13.39,7.86,246.88,73.7,122.59,-0.126859
-GSBT20_Postfilter,River & Seawater,Archaea,SING10post,SRR9049881,Region,Asia,29.28,7.81,177.82,21.7,70.3,-0.184406
-GSBT20_Postfilter,River & Seawater,Archaea,SING12post,SRR9049874,Region,Asia,29.33,7.89,178.76,22.5,75.91,-0.160845
-GSBT20_Postfilter,River & Seawater,Archaea,SING13post,SRR9050242,Region,Asia,30.06,7.89,218.76,17.4,70.94,-0.138525
-GSBT20_Postfilter,River & Seawater,Archaea,CHA12post,SRR9053223,Region,East Coast U.S.,26.39,7.53,174.69,69.7,101.2,-0.119114
-GSBT20_Postfilter,River & Seawater,Archaea,EUW11post,SRR9050149,Region,Europe,9.7,7.89,285.01,150.3,200.25,-0.125774
+GSBT20,River & Seawater,Bacteria,BUS1,SRR9049911,Region,Asia,27.39,8.23,239.7,13.1,86.45,-0.158049
+GSBT20,River & Seawater,Bacteria,BUS10,SRR9049912,Region,Asia,27.44,8.28,255.95,10,86.34,-0.15952
+GSBT20,River & Seawater,Bacteria,BUS11,SRR9049910,Region,Asia,27.39,8.29,230.95,10.4,87.32,-0.158551
+GSBT20,River & Seawater,Bacteria,HK1,SRR9049845,Region,Asia,30.83,8.09,189.69,-8.1,57.64,-0.153715
+GSBT20,River & Seawater,Bacteria,HK10,SRR9049844,Region,Asia,28,7.96,218.45,2.7,60.06,-0.154025
+GSBT20,River & Seawater,Bacteria,HK12,SRR9049850,Region,Asia,27.5,7.91,197.51,7,61.28,-0.155761
+GSBT20,River & Seawater,Bacteria,KEW1,SRR9053302,Region,Great Lakes,4.78,9.18,396.26,59.7,179.91,-0.173117
+GSBT20,River & Seawater,Bacteria,KEW12,SRR9053820,Region,Great Lakes,11.72,7.83,346.89,67.1,114.01,-0.16224
+GSBT20,River & Seawater,Bacteria,KEW13,SRR9053818,Region,Great Lakes,11.06,7.5,345.95,62.1,90.3,-0.154388
+GSBT20,River & Seawater,Bacteria,LA1,SRR9053559,Region,West Coast U.S.,21.67,7.9,196.26,68,120.65,-0.161781
+GSBT20,River & Seawater,Bacteria,LA10,SRR9053558,Region,West Coast U.S.,20.11,7.96,233.76,67.4,123.26,-0.157448
+GSBT20,River & Seawater,Bacteria,LA11,SRR9053552,Region,West Coast U.S.,21.11,8.21,258.13,46.6,117.24,-0.174179
+GSBT20,River & Seawater,Bacteria,OAK10,SRR9053239,Region,West Coast U.S.,15.94,7.58,225.63,77.1,110.37,-0.158493
+GSBT20,River & Seawater,Bacteria,OAK11,SRR9053241,Region,West Coast U.S.,15.39,7,229.07,100.7,100.7,-0.156946
+GSBT20,River & Seawater,Bacteria,OAK12,SRR9053243,Region,West Coast U.S.,15.17,7.39,243.13,94.3,116.61,-0.158684
+GSBT20,River & Seawater,Bacteria,SEA1,SRR9053227,Region,West Coast U.S.,14.22,7.92,239.38,69.3,121.76,-0.158451
+GSBT20,River & Seawater,Bacteria,SEA11,SRR9053154,Region,West Coast U.S.,12.83,7.86,240.63,71.3,120.1,-0.157644
+GSBT20,River & Seawater,Bacteria,SEA12,SRR9053148,Region,West Coast U.S.,13.22,7.85,243.13,74,122.3,-0.158203
+GSBT20,River & Seawater,Bacteria,SING1,SRR9049879,Region,Asia,29.33,6.3,181.88,77.4,35.39,-0.151466
+GSBT20,River & Seawater,Bacteria,SING10,SRR9049880,Region,Asia,29.28,7.81,177.82,21.7,70.3,-0.150127
+GSBT20,River & Seawater,Bacteria,SING12,SRR9049873,Region,Asia,29.33,7.89,178.76,22.5,75.91,-0.150444
+GSBT20,River & Seawater,Bacteria,BALT1,SRR9053388,Region,East Coast U.S.,24.67,7.25,245.01,68.8,83.57,-0.150061
+GSBT20,River & Seawater,Bacteria,BALT10,SRR9053387,Region,East Coast U.S.,25.5,8.52,283.45,95,185.07,-0.151461
+GSBT20,River & Seawater,Bacteria,BALT11,SRR9053385,Region,East Coast U.S.,25.56,8.57,285.64,95.8,188.85,-0.151588
+GSBT20,River & Seawater,Bacteria,CHA10,SRR9053218,Region,East Coast U.S.,26.5,7.6,176.57,68.9,104.57,-0.147481
+GSBT20,River & Seawater,Bacteria,CHA13,SRR9053224,Region,East Coast U.S.,26.33,7.65,176.26,72.8,111.42,-0.17107
+GSBT20,River & Seawater,Bacteria,CHA16,SRR9053066,Region,East Coast U.S.,26.44,7.72,176.57,90.5,133.3,-0.174447
+GSBT20,River & Seawater,Bacteria,DS1FALLzymo1,SRR9053460,Region,Great Lakes,9.67,7.69,346.89,262.1,300.82,-0.166859
+GSBT20,River & Seawater,Bacteria,DS1FALLzymo13,SRR9053500,Region,Great Lakes,9.67,8.52,323.14,156,241.29,-0.163819
+GSBT20,River & Seawater,Bacteria,DS1FALLzymo14,SRR9053499,Region,Great Lakes,9.72,7.85,322.2,212.8,260.51,-0.164879
+GSBT20,River & Seawater,Bacteria,EUM1,SRR9050056,Region,Europe,15.06,7.96,283.14,97.5,152.4,-0.161706
+GSBT20,River & Seawater,Bacteria,EUM10,SRR9050272,Region,Europe,15.17,8.02,263.76,185.1,243.45,-0.161152
+GSBT20,River & Seawater,Bacteria,EUM11,SRR9050270,Region,Europe,15.72,8.01,273.14,166.1,223.99,-0.158261
+GSBT20,River & Seawater,Bacteria,EUV1,SRR9049922,Region,Europe,16.61,7.77,245.63,156.3,200.57,-0.156067
+GSBT20,River & Seawater,Bacteria,EUV10,SRR9049923,Region,Europe,17,8.2,231.57,100.1,169.18,-0.158205
+GSBT20,River & Seawater,Bacteria,EUV11,SRR9049917,Region,Europe,17.22,8.19,220.95,94,162.56,-0.159078
+GSBT20,River & Seawater,Bacteria,GAL1,SRR9053730,Region,East Coast U.S.,26.89,7.4,235.01,214.3,238.11,-0.152485
+GSBT20,River & Seawater,Bacteria,GAL11,SRR9053113,Region,East Coast U.S.,27.44,8.24,231.57,120.3,194.25,-0.152071
+GSBT20,River & Seawater,Bacteria,GAL12,SRR9053463,Region,East Coast U.S.,27.44,8.28,230.95,129.5,205.84,-0.158038
+GSBT20,River & Seawater,Bacteria,GBFALLzymo1,SRR9053343,Region,Great Lakes,18.33,8.15,305.64,160.5,227.01,-0.159827
+GSBT20,River & Seawater,Bacteria,GBFALLzymo10,SRR9053342,Region,Great Lakes,20.06,8.18,302.2,198.6,267.25,-0.161495
+GSBT20,River & Seawater,Bacteria,GBFALLzymo11,SRR9053345,Region,Great Lakes,20.06,8.16,307.2,133.7,201.18,-0.159074
+GSBT20,River & Seawater,Bacteria,NY1,SRR9053331,Region,East Coast U.S.,18.33,7.2,218.76,110.7,122.27,-0.154135
+GSBT20,River & Seawater,Bacteria,NY11,SRR9053654,Region,East Coast U.S.,20.06,7.78,196.26,140,185.38,-0.15149
+GSBT20,River & Seawater,Bacteria,NY12,SRR9053656,Region,East Coast U.S.,20.72,7.76,192.51,140.3,184.61,-0.15112
+GSBT20,River & Seawater,Bacteria,EUN10,SRR9050003,Region,Europe,18.94,8.13,264.38,64,129.49,-0.159173
+GSBT20,River & Seawater,Bacteria,EUN12,SRR9049908,Region,Europe,18.67,8.14,263.13,63.7,129.71,-0.160514
+GSBT20,River & Seawater,Bacteria,EUN13,SRR9049902,Region,Europe,18.56,8.14,262.2,60.6,126.58,-0.159649
+GSBT20,River & Seawater,Bacteria,EUR1,SRR9049813,Region,Europe,13.17,9.33,334.7,53,185.36,-0.161216
+GSBT20,River & Seawater,Bacteria,EUR10,SRR9050314,Region,Europe,12.56,8.34,342.51,124.5,200.46,-0.162426
+GSBT20,River & Seawater,Bacteria,EUR11,SRR9049814,Region,Europe,12.72,8.86,350.95,100.9,206.4,-0.161932
+GSBT20,River & Seawater,Bacteria,EUW10,SRR9050146,Region,Europe,9.7,7.88,285.01,150.5,199.89,-0.162886
+GSBT20,River & Seawater,Bacteria,EUW11,SRR9050148,Region,Europe,9.7,7.89,285.01,150.3,200.25,-0.163061
+GSBT20,River & Seawater,Bacteria,EUW12,SRR9050150,Region,Europe,9.6,8.64,285.64,80.6,172.6,-0.162108
+GSBT20,River & Seawater,Bacteria,NEW1,SRR9053475,Region,East Coast U.S.,23.78,7.52,169.38,141.5,172.14,-0.154441
+GSBT20,River & Seawater,Bacteria,NEW10,SRR9053477,Region,East Coast U.S.,23.83,7.52,172.82,122.3,152.94,-0.156604
+GSBT20,River & Seawater,Bacteria,NEW11,SRR9053752,Region,East Coast U.S.,23.83,7.52,174.69,124.3,154.94,-0.152814
+GSBT20,River & Seawater,Bacteria,NOF1,SRR9053883,Region,East Coast U.S.,22.44,6.34,220.01,148.2,109.49,-0.143404
+GSBT20,River & Seawater,Bacteria,NOF10,SRR9053884,Region,East Coast U.S.,24.78,7.97,217.51,236.6,293.94,-0.147567
+GSBT20,River & Seawater,Bacteria,NOF11,SRR9053886,Region,East Coast U.S.,24.78,7.97,217.51,225.7,283.04,-0.147017
+GSBT20,River & Seawater,Archaea,SEA1,SRR9053227,Region,West Coast U.S.,14.22,7.92,239.38,69.3,121.76,-0.125381
+GSBT20,River & Seawater,Archaea,SEA11,SRR9053154,Region,West Coast U.S.,12.83,7.86,240.63,71.3,120.1,-0.12371
+GSBT20,River & Seawater,Archaea,SEA12,SRR9053148,Region,West Coast U.S.,13.22,7.85,243.13,74,122.3,-0.123497
+GSBT20,River & Seawater,Archaea,SING12,SRR9049873,Region,Asia,29.33,7.89,178.76,22.5,75.91,-0.136897
+GSBT20,River & Seawater,Archaea,CHA16,SRR9053066,Region,East Coast U.S.,26.44,7.72,176.57,90.5,133.3,-0.119243
+GSBT20,River & Seawater,Bacteria,BUS10post,SRR9049909,Region,Asia,27.44,8.28,255.95,10,86.34,-0.186525
+GSBT20,River & Seawater,Bacteria,BUS11post,SRR9049915,Region,Asia,27.39,8.29,230.95,10.4,87.32,-0.187209
+GSBT20,River & Seawater,Bacteria,BUS12post,SRR9050298,Region,Asia,27.33,8.29,257.51,10.7,87.61,-0.187919
+GSBT20,River & Seawater,Bacteria,HK10post,SRR9049843,Region,Asia,28,7.96,218.45,2.7,60.06,-0.161516
+GSBT20,River & Seawater,Bacteria,HK12post,SRR9049985,Region,Asia,27.5,7.91,197.51,7,61.28,-0.165156
+GSBT20,River & Seawater,Bacteria,HK14post,SRR9049989,Region,Asia,27.17,7.87,198.44,5.5,57.34,-0.160976
+GSBT20,River & Seawater,Bacteria,KEW11post,SRR9053821,Region,Great Lakes,11.33,7.51,339.08,58.4,87.19,-0.162148
+GSBT20,River & Seawater,Bacteria,KEW14post,SRR9053823,Region,Great Lakes,12.22,7.66,347.2,73.8,111.17,-0.165781
+GSBT20,River & Seawater,Bacteria,KEW15post,SRR9053827,Region,Great Lakes,11.61,7.62,345.33,75.3,110.33,-0.164643
+GSBT20,River & Seawater,Bacteria,LA12post,SRR9053565,Region,West Coast U.S.,21,8.21,251.88,44.7,115.32,-0.170432
+GSBT20,River & Seawater,Bacteria,LA14post,SRR9053865,Region,West Coast U.S.,22.28,8.18,240.32,41.2,110.37,-0.170772
+GSBT20,River & Seawater,Bacteria,LA15post,SRR9053863,Region,West Coast U.S.,22.83,8.21,249.38,44,115.06,-0.172548
+GSBT20,River & Seawater,Bacteria,OAK10post,SRR9053240,Region,West Coast U.S.,15.94,7.58,225.63,77.1,110.37,-0.175992
+GSBT20,River & Seawater,Bacteria,OAK11post,SRR9053242,Region,West Coast U.S.,15.39,7,229.07,100.7,100.7,-0.176617
+GSBT20,River & Seawater,Bacteria,OAK16post,SRR9053266,Region,West Coast U.S.,18.39,7.77,210.95,63.1,107.64,-0.188502
+GSBT20,River & Seawater,Bacteria,SEA11post,SRR9053149,Region,West Coast U.S.,12.83,7.86,240.63,71.3,120.1,-0.173973
+GSBT20,River & Seawater,Bacteria,SEA12post,SRR9053151,Region,West Coast U.S.,13.22,7.85,243.13,74,122.3,-0.170618
+GSBT20,River & Seawater,Bacteria,SEA13post,SRR9053262,Region,West Coast U.S.,13.39,7.86,246.88,73.7,122.59,-0.172137
+GSBT20,River & Seawater,Bacteria,SING10post,SRR9049881,Region,Asia,29.28,7.81,177.82,21.7,70.3,-0.167917
+GSBT20,River & Seawater,Bacteria,SING12post,SRR9049874,Region,Asia,29.33,7.89,178.76,22.5,75.91,-0.17003
+GSBT20,River & Seawater,Bacteria,SING13post,SRR9050242,Region,Asia,30.06,7.89,218.76,17.4,70.94,-0.150974
+GSBT20,River & Seawater,Bacteria,BALT10post,SRR9053386,Region,East Coast U.S.,25.5,8.52,283.45,95,185.07,-0.167722
+GSBT20,River & Seawater,Bacteria,BALT11post,SRR9053392,Region,East Coast U.S.,25.56,8.57,285.64,95.8,188.85,-0.163102
+GSBT20,River & Seawater,Bacteria,BALT12post,SRR9053390,Region,East Coast U.S.,25.72,8.61,295.95,94.7,190.17,-0.159265
+GSBT20,River & Seawater,Bacteria,CHA12post,SRR9053223,Region,East Coast U.S.,26.39,7.53,174.69,69.7,101.2,-0.177892
+GSBT20,River & Seawater,Bacteria,CHA14post,SRR9053065,Region,East Coast U.S.,26.39,7.68,173.44,73.8,114.21,-0.14969
+GSBT20,River & Seawater,Bacteria,CHA15post,SRR9053067,Region,East Coast U.S.,26.44,7.69,175.01,75.6,116.61,-0.150434
+GSBT20,River & Seawater,Bacteria,EUM10post,SRR9050273,Region,Europe,15.17,8.02,263.76,185.1,243.45,-0.174542
+GSBT20,River & Seawater,Bacteria,EUM11post,SRR9050271,Region,Europe,15.72,8.01,273.14,166.1,223.99,-0.184231
+GSBT20,River & Seawater,Bacteria,EUM12post,SRR9050277,Region,Europe,15.56,8.03,280.95,151.2,210.2,-0.186405
+GSBT20,River & Seawater,Bacteria,EUV10post,SRR9049924,Region,Europe,17,8.2,231.57,100.1,169.18,-0.171671
+GSBT20,River & Seawater,Bacteria,EUV11post,SRR9049918,Region,Europe,17.22,8.19,220.95,94,162.56,-0.175788
+GSBT20,River & Seawater,Bacteria,EUV13post,SRR9049920,Region,Europe,17.22,8.19,220.95,94,162.56,-0.180334
+GSBT20,River & Seawater,Bacteria,GAL10post,SRR9053289,Region,East Coast U.S.,27.17,8.24,234.7,140.6,214.49,-0.172684
+GSBT20,River & Seawater,Bacteria,GAL12post,SRR9053402,Region,East Coast U.S.,27.44,8.28,230.95,129.5,205.84,-0.175934
+GSBT20,River & Seawater,Bacteria,GAL13post,SRR9053404,Region,East Coast U.S.,27.39,8.26,230.32,124.4,199.53,-0.173049
+GSBT20,River & Seawater,Bacteria,NY10post,SRR9053655,Region,East Coast U.S.,20.06,7.79,193.44,137.8,183.76,-0.174814
+GSBT20,River & Seawater,Bacteria,NY12post,SRR9053659,Region,East Coast U.S.,20.72,7.76,192.51,140.3,184.61,-0.17858
+GSBT20,River & Seawater,Bacteria,NY13post,SRR9053661,Region,East Coast U.S.,20.78,7.76,194.69,143.5,187.82,-0.176033
+GSBT20,River & Seawater,Bacteria,EUN10post,SRR9050004,Region,Europe,18.94,8.13,264.38,64,129.49,-0.175004
+GSBT20,River & Seawater,Bacteria,EUN11post,SRR9049905,Region,Europe,18.83,8.14,264.38,61.5,127.54,-0.177771
+GSBT20,River & Seawater,Bacteria,EUN12post,SRR9049907,Region,Europe,18.67,8.14,263.13,63.7,129.71,-0.175547
+GSBT20,River & Seawater,Bacteria,EUR10post,SRR9050110,Region,Europe,12.56,8.34,342.51,124.5,200.46,-0.167561
+GSBT20,River & Seawater,Bacteria,EUR11post,SRR9049815,Region,Europe,12.72,8.86,350.95,100.9,206.4,-0.168488
+GSBT20,River & Seawater,Bacteria,EUR12post,SRR9049979,Region,Europe,12.61,8.65,348.14,98.6,192.15,-0.166754
+GSBT20,River & Seawater,Bacteria,EUW10post,SRR9050147,Region,Europe,9.7,7.88,285.01,150.5,199.89,-0.174995
+GSBT20,River & Seawater,Bacteria,EUW11post,SRR9050149,Region,Europe,9.7,7.89,285.01,150.3,200.25,-0.191426
+GSBT20,River & Seawater,Bacteria,EUW12post,SRR9050151,Region,Europe,9.6,8.64,285.64,80.6,172.6,-0.189876
+GSBT20,River & Seawater,Bacteria,NEW10post,SRR9053755,Region,East Coast U.S.,23.83,7.52,172.82,122.3,152.94,-0.171332
+GSBT20,River & Seawater,Bacteria,NEW11post,SRR9053168,Region,East Coast U.S.,23.83,7.52,174.69,124.3,154.94,-0.166894
+GSBT20,River & Seawater,Bacteria,NEW12post,SRR9053174,Region,East Coast U.S.,23.78,7.54,172.51,128.8,160.61,-0.172004
+GSBT20,River & Seawater,Bacteria,NOF10post,SRR9053885,Region,East Coast U.S.,24.78,7.97,217.51,236.6,293.94,-0.159246
+GSBT20,River & Seawater,Bacteria,NOF11post,SRR9053887,Region,East Coast U.S.,24.78,7.97,217.51,225.7,283.04,-0.163935
+GSBT20,River & Seawater,Bacteria,NOF12post,SRR9053616,Region,East Coast U.S.,24.89,7.91,211.57,216.5,270.31,-0.164803
+GSBT20,River & Seawater,Archaea,LA12post,SRR9053565,Region,West Coast U.S.,21,8.21,251.88,44.7,115.32,-0.121401
+GSBT20,River & Seawater,Archaea,OAK10post,SRR9053240,Region,West Coast U.S.,15.94,7.58,225.63,77.1,110.37,-0.122105
+GSBT20,River & Seawater,Archaea,OAK11post,SRR9053242,Region,West Coast U.S.,15.39,7,229.07,100.7,100.7,-0.121004
+GSBT20,River & Seawater,Archaea,OAK16post,SRR9053266,Region,West Coast U.S.,18.39,7.77,210.95,63.1,107.64,-0.116039
+GSBT20,River & Seawater,Archaea,SEA11post,SRR9053149,Region,West Coast U.S.,12.83,7.86,240.63,71.3,120.1,-0.129228
+GSBT20,River & Seawater,Archaea,SEA12post,SRR9053151,Region,West Coast U.S.,13.22,7.85,243.13,74,122.3,-0.125631
+GSBT20,River & Seawater,Archaea,SEA13post,SRR9053262,Region,West Coast U.S.,13.39,7.86,246.88,73.7,122.59,-0.126859
+GSBT20,River & Seawater,Archaea,SING10post,SRR9049881,Region,Asia,29.28,7.81,177.82,21.7,70.3,-0.184406
+GSBT20,River & Seawater,Archaea,SING12post,SRR9049874,Region,Asia,29.33,7.89,178.76,22.5,75.91,-0.160845
+GSBT20,River & Seawater,Archaea,SING13post,SRR9050242,Region,Asia,30.06,7.89,218.76,17.4,70.94,-0.138525
+GSBT20,River & Seawater,Archaea,CHA12post,SRR9053223,Region,East Coast U.S.,26.39,7.53,174.69,69.7,101.2,-0.119114
+GSBT20,River & Seawater,Archaea,EUW11post,SRR9050149,Region,Europe,9.7,7.89,285.01,150.3,200.25,-0.125774
 WHL+21,River & Seawater,Bacteria,Spring_URL_T1,SRR10417964,Season,Spring,19.27,7.34,246.26,109.17,128.9,-0.150103
 WHL+21,River & Seawater,Bacteria,Spring_URM_T1,SRR10417885,Season,Spring,18.3,7.24,253.13,105.17,119.05,-0.162494
 WHL+21,River & Seawater,Bacteria,Spring_URR_T1,SRR10417852,Season,Spring,18.27,7.24,244.38,90.03,103.91,-0.158203
@@ -1021,118 +1021,118 @@ SPA+21,Lake & Pond,Bacteria,2017_27_09_E,SRR13517052,Depth,Epi,19.9,8.6,318.76,1
 SPA+21,Lake & Pond,Bacteria,2017_27_09_S,SRR13517063,Depth,Secchi,15.3,7.3,15.63,170.3,187.47,-0.176002
 SPA+21,Lake & Pond,Bacteria,2017_04_10_E,SRR13517074,Depth,Epi,19.5,8.9,328.14,128,238.32,-0.172756
 SPA+21,Lake & Pond,Bacteria,2017_04_10_S,SRR13517075,Depth,Secchi,10.8,7.3,9.38,-10.3,6.6,-0.17248
-PCL+18_Acidic,Geothermal,Bacteria,P1.0013,ERR2240139,NA,NA,33.4,2.14,78.13,440.5,144.9,-0.150088
-PCL+18_Acidic,Geothermal,Bacteria,P1.0014,ERR2240140,NA,NA,85.2,2.13,153.13,27.2,-319.06,-0.154373
-PCL+18_Acidic,Geothermal,Bacteria,P1.0067,ERR2240191,NA,NA,26.1,2.33,85.32,425,147.72,-0.158962
-PCL+18_Acidic,Geothermal,Bacteria,P1.0083,ERR2240207,NA,NA,29.3,2.29,95.63,294.9,12.26,-0.175198
-PCL+18_Acidic,Geothermal,Bacteria,P1.0118,ERR2240229,NA,NA,93.2,2.46,106.88,75.8,-254.2,-0.186961
-PCL+18_Acidic,Geothermal,Bacteria,P1.0188,ERR2240289,NA,NA,43.3,2.51,126.57,-33,-314.91,-0.22864
-PCL+18_Acidic,Geothermal,Bacteria,P1.0192,ERR2240293,NA,NA,73.2,2.1,127.19,-31.9,-368.63,-0.184135
-PCL+18_Acidic,Geothermal,Bacteria,P1.0229,ERR2240329,NA,NA,24,2.33,51.88,-4.2,-279.53,-0.154016
-PCL+18_Acidic,Geothermal,Bacteria,P1.0277,ERR2240376,NA,NA,54.9,2.04,40,43.6,-279.24,-0.15566
-PCL+18_Acidic,Geothermal,Bacteria,P1.0281,ERR2240380,NA,NA,75.2,2.17,46.88,19.4,-314.43,-0.192411
-PCL+18_Acidic,Geothermal,Bacteria,P1.0283,ERR2240382,NA,NA,27.8,2.53,57.81,164,-102.91,-0.230644
-PCL+18_Acidic,Geothermal,Bacteria,P1.0298,ERR2240396,NA,NA,65.9,1.72,47.81,-6.5,-361.69,-0.149217
-PCL+18_Acidic,Geothermal,Bacteria,P1.0300,ERR2240398,NA,NA,34.8,1.69,40.94,-5.4,-329.84,-0.149161
-PCL+18_Acidic,Geothermal,Bacteria,P1.0316,ERR2240414,NA,NA,54.4,2.49,83.13,-55.2,-348.3,-0.222967
-PCL+18_Acidic,Geothermal,Bacteria,P1.0352,ERR2240449,NA,NA,31.1,2.6,137.51,47.5,-218.11,-0.150461
-PCL+18_Acidic,Geothermal,Bacteria,P1.0366,ERR2240463,NA,NA,34.2,2.67,60.31,51.5,-212.55,-0.217012
-PCL+18_Acidic,Geothermal,Bacteria,P1.0367,ERR2240464,NA,NA,49.2,1.7,63.75,119,-219.98,-0.218888
-PCL+18_Acidic,Geothermal,Bacteria,P1.0378,ERR2240475,NA,NA,39.7,2.9,64.38,263.3,8.8,-0.22332
-PCL+18_Acidic,Geothermal,Bacteria,P1.0390,ERR2240487,NA,NA,40.8,2.84,69.07,86.7,-172.43,-0.149214
-PCL+18_Acidic,Geothermal,Bacteria,P1.0421,ERR2240514,NA,NA,88.3,2.92,82.82,299.9,7.3,-0.181273
-PCL+18_Acidic,Geothermal,Bacteria,P1.0543,ERR2240632,NA,NA,64.1,2.68,54.38,325.2,36.13,-0.204197
-PCL+18_Acidic,Geothermal,Bacteria,P1.0674,ERR2240761,NA,NA,19.3,2.85,214.07,432.3,191.5,-0.146594
-PCL+18_Acidic,Geothermal,Bacteria,P1.0679,ERR2240765,NA,NA,34.5,2.69,72.82,394.1,131.01,-0.176191
-PCL+18_Acidic,Geothermal,Bacteria,P1.0685,ERR2240771,NA,NA,40.2,2.69,88.44,377.2,109.24,-0.172477
-PCL+18_Acidic,Geothermal,Bacteria,P1.0688,ERR2240774,NA,NA,29.1,2.62,85.32,138.3,-124.37,-0.147181
-PCL+18_Acidic,Geothermal,Bacteria,P1.0726,ERR2240811,NA,NA,39.4,2.89,112.82,329,74.13,-0.155386
-PCL+18_Acidic,Geothermal,Bacteria,P1.0739,ERR2240823,NA,NA,58,2.25,72.82,296.4,-15.69,-0.231609
-PCL+18_Acidic,Geothermal,Bacteria,P1.0745,ERR2240829,NA,NA,29.6,1.75,94.38,297.7,-17.66,-0.171999
-PCL+18_Acidic,Geothermal,Bacteria,P1.0766,ERR2240850,NA,NA,21.3,2.52,160.94,502.1,240.37,-0.146701
-PCL+18_Acidic,Geothermal,Bacteria,P1.0767,ERR2240851,NA,NA,22,2.57,65.31,361.5,102.08,-0.14649
-PCL+18_Acidic,Geothermal,Bacteria,P1.0770,ERR2240854,NA,NA,36,2.63,98.13,174.4,-93.65,-0.150141
-PCL+18_Acidic,Geothermal,Bacteria,P1.0777,ERR2240861,NA,NA,42.3,2.04,121.25,422.3,111.86,-0.161929
-PCL+18_Acidic,Geothermal,Bacteria,P1.0800,ERR2240884,NA,NA,28.5,2.09,66.25,-55.6,-349.47,-0.147007
-PCL+18_Acidic,Geothermal,Bacteria,P1.0805,ERR2240889,NA,NA,95.8,2.41,35.94,16.7,-319.3,-0.155025
-PCL+18_Acidic,Geothermal,Bacteria,P1.0814,ERR2240898,NA,NA,51.6,2.67,34.06,164.4,-114.6,-0.229731
-PCL+18_Acidic,Geothermal,Bacteria,P1.0839,ERR2240922,NA,NA,20.3,2.73,146.88,411.6,162.99,-0.14409
-PCL+18_Acidic,Geothermal,Bacteria,P1.0858,ERR2240935,NA,NA,80.9,2.41,93.44,-63.9,-386.33,-0.169679
-PCL+18_Acidic,Geothermal,Bacteria,P1.0860,ERR2240937,NA,NA,83,2.39,95.63,-60.1,-385.86,-0.170441
-PCL+18_Acidic,Geothermal,Bacteria,P1.0871,ERR2240948,NA,NA,60.6,2.88,73.44,-56,-328.82,-0.229534
-PCL+18_Acidic,Geothermal,Bacteria,P1.0880,ERR2240957,NA,NA,26.4,1.43,70,39.4,-291.65,-0.167924
-PCL+18_Acidic,Geothermal,Bacteria,P1.0896,ERR2240972,NA,NA,27.3,2.1,81.88,182,-110.1,-0.152988
-PCL+18_Acidic,Geothermal,Bacteria,P1.1010,ERR2241051,NA,NA,51.7,1.34,1118.17,67.6,-297.21,-0.190864
-PCL+18_Acidic,Geothermal,Archaea,P1.0013,ERR2240139,NA,NA,33.4,2.14,78.13,440.5,144.9,-0.206633
-PCL+18_Acidic,Geothermal,Archaea,P1.0014,ERR2240140,NA,NA,85.2,2.13,153.13,27.2,-319.06,-0.228039
-PCL+18_Acidic,Geothermal,Archaea,P1.0083,ERR2240207,NA,NA,29.3,2.29,95.63,294.9,12.26,-0.173226
-PCL+18_Acidic,Geothermal,Archaea,P1.0188,ERR2240289,NA,NA,43.3,2.51,126.57,-33,-314.91,-0.232298
-PCL+18_Acidic,Geothermal,Archaea,P1.0192,ERR2240293,NA,NA,73.2,2.1,127.19,-31.9,-368.63,-0.226496
-PCL+18_Acidic,Geothermal,Archaea,P1.0277,ERR2240376,NA,NA,54.9,2.04,40,43.6,-279.24,-0.218008
-PCL+18_Acidic,Geothermal,Archaea,P1.0281,ERR2240380,NA,NA,75.2,2.17,46.88,19.4,-314.43,-0.218386
-PCL+18_Acidic,Geothermal,Archaea,P1.0283,ERR2240382,NA,NA,27.8,2.53,57.81,164,-102.91,-0.217038
-PCL+18_Acidic,Geothermal,Archaea,P1.0316,ERR2240414,NA,NA,54.4,2.49,83.13,-55.2,-348.3,-0.225999
-PCL+18_Acidic,Geothermal,Archaea,P1.0352,ERR2240449,NA,NA,31.1,2.6,137.51,47.5,-218.11,-0.190116
-PCL+18_Acidic,Geothermal,Archaea,P1.0366,ERR2240463,NA,NA,34.2,2.67,60.31,51.5,-212.55,-0.213273
-PCL+18_Acidic,Geothermal,Archaea,P1.0378,ERR2240475,NA,NA,39.7,2.9,64.38,263.3,8.8,-0.217227
-PCL+18_Acidic,Geothermal,Archaea,P1.0421,ERR2240514,NA,NA,88.3,2.92,82.82,299.9,7.3,-0.18383
-PCL+18_Acidic,Geothermal,Archaea,P1.0679,ERR2240765,NA,NA,34.5,2.69,72.82,394.1,131.01,-0.214124
-PCL+18_Acidic,Geothermal,Archaea,P1.0685,ERR2240771,NA,NA,40.2,2.69,88.44,377.2,109.24,-0.216572
-PCL+18_Acidic,Geothermal,Archaea,P1.0739,ERR2240823,NA,NA,58,2.25,72.82,296.4,-15.69,-0.214268
-PCL+18_Acidic,Geothermal,Archaea,P1.0745,ERR2240829,NA,NA,29.6,1.75,94.38,297.7,-17.66,-0.240631
-PCL+18_Acidic,Geothermal,Archaea,P1.0767,ERR2240851,NA,NA,22,2.57,65.31,361.5,102.08,-0.203601
-PCL+18_Acidic,Geothermal,Archaea,P1.0770,ERR2240854,NA,NA,36,2.63,98.13,174.4,-93.65,-0.216316
-PCL+18_Acidic,Geothermal,Archaea,P1.0777,ERR2240861,NA,NA,42.3,2.04,121.25,422.3,111.86,-0.175031
-PCL+18_Acidic,Geothermal,Archaea,P1.0814,ERR2240898,NA,NA,51.6,2.67,34.06,164.4,-114.6,-0.217318
-PCL+18_Acidic,Geothermal,Archaea,P1.0896,ERR2240972,NA,NA,27.3,2.1,81.88,182,-110.1,-0.217965
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0005,ERR2240133,NA,NA,42.6,8.41,128.13,174.1,262.43,-0.169948
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0020,ERR2240146,NA,NA,47,7.17,115.32,100.3,111.1,-0.161602
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0038,ERR2240164,NA,NA,98.8,7.65,114.38,133.8,181.77,-0.181529
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0043,ERR2240169,NA,NA,97.4,8.39,55.31,68.6,170.79,-0.191054
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0069,ERR2240193,NA,NA,96.6,8.13,53.75,18.2,101.1,-0.187127
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0127,ERR2240237,NA,NA,89.1,8.02,5.31,1.2,74.51,-0.211294
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0145,ERR2240253,NA,NA,35.7,8.5,200.32,76.4,168.32,-0.173789
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0178,ERR2240279,NA,NA,31.7,8.69,279.07,66.9,169.12,-0.171985
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0179,ERR2240280,NA,NA,86.5,7.97,93.44,74.9,144.12,-0.219456
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0209,ERR2240310,NA,NA,83.7,8.38,123.13,57.6,155.31,-0.184945
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0212,ERR2240313,NA,NA,50.9,6.08,168.76,168.7,109.55,-0.184185
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0248,ERR2240347,NA,NA,99,7.42,43.75,28.9,59.91,-0.219503
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0256,ERR2240355,NA,NA,66.1,8.35,93.13,27.7,118.57,-0.164539
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0259,ERR2240358,NA,NA,40.3,7.34,141.57,46.8,67.95,-0.184727
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0262,ERR2240361,NA,NA,73.6,7.89,71.25,14.7,75.93,-0.204418
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0304,ERR2240402,NA,NA,34.2,6.97,122.5,-18.1,-19.93,-0.153427
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0343,ERR2240440,NA,NA,69.6,6.21,86.25,-231,-284.72,-0.24297
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0408,ERR2240505,NA,NA,80.8,8.07,50,-121.5,-46.36,-0.217241
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0429,ERR2240522,NA,NA,61.6,6.93,115.32,30,25.35,-0.224566
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0433,ERR2240526,NA,NA,67,6.28,75.63,-19.4,-67.99,-0.233182
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0434,ERR2240527,NA,NA,46,7.14,139.07,107.6,116.47,-0.175317
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0438,ERR2240531,NA,NA,82.9,7.31,73.75,77,98.9,-0.190652
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0456,ERR2240548,NA,NA,55,7.15,130,76.2,85.97,-0.165292
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0498,ERR2240587,NA,NA,70.8,7,53.44,126.5,126.5,-0.220303
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0513,ERR2240602,NA,NA,78.1,6.27,58.75,173.9,123.03,-0.213253
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0524,ERR2240613,NA,NA,90.4,9.01,23.13,-142.4,2.59,-0.240894
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0560,ERR2240648,NA,NA,55.3,6.48,10.94,-66.7,-100.59,-0.191097
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0579,ERR2240666,NA,NA,67.1,6.47,28.44,82.9,47.12,-0.201827
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0624,ERR2240711,NA,NA,95.9,6.04,210.95,-231,-301.29,-0.223066
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0631,ERR2240718,NA,NA,75.9,6.79,107.5,-144.5,-159.04,-0.230538
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0645,ERR2240732,NA,NA,37.9,6.56,185.63,25.2,-1.95,-0.163918
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0648,ERR2240735,NA,NA,52.4,9.02,55.94,-134.8,-4.32,-0.176031
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0701,ERR2240787,NA,NA,86.1,7.67,119.69,-271,-223.24,-0.22199
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0716,ERR2240801,NA,NA,97.5,8.38,33.44,-296.7,-195.21,-0.220824
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0753,ERR2240837,NA,NA,90,6.88,66.88,53.8,45.15,-0.176735
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0772,ERR2240856,NA,NA,31.2,6.67,87.82,19.2,-0.73,-0.164899
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0792,ERR2240876,NA,NA,34.2,6.33,49.38,-146.7,-187.56,-0.176836
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0970,ERR2241024,NA,NA,68.4,6.78,56.25,2.7,-12.21,-0.227104
-PCL+18_Alkaline,Geothermal,Bacteria,P1.0978,ERR2241032,NA,NA,21.5,6.25,107.82,67.4,23.55,-0.165331
-PCL+18_Alkaline,Geothermal,Archaea,P1.0069,ERR2240193,NA,NA,96.6,8.13,53.75,18.2,101.1,-0.199213
-PCL+18_Alkaline,Geothermal,Archaea,P1.0179,ERR2240280,NA,NA,86.5,7.97,93.44,74.9,144.12,-0.233073
-PCL+18_Alkaline,Geothermal,Archaea,P1.0209,ERR2240310,NA,NA,83.7,8.38,123.13,57.6,155.31,-0.236822
-PCL+18_Alkaline,Geothermal,Archaea,P1.0343,ERR2240440,NA,NA,69.6,6.21,86.25,-231,-284.72,-0.22026
-PCL+18_Alkaline,Geothermal,Archaea,P1.0438,ERR2240531,NA,NA,82.9,7.31,73.75,77,98.9,-0.237619
-PCL+18_Alkaline,Geothermal,Archaea,P1.0456,ERR2240548,NA,NA,55,7.15,130,76.2,85.97,-0.201477
-PCL+18_Alkaline,Geothermal,Archaea,P1.0524,ERR2240613,NA,NA,90.4,9.01,23.13,-142.4,2.59,-0.218131
-PCL+18_Alkaline,Geothermal,Archaea,P1.0579,ERR2240666,NA,NA,67.1,6.47,28.44,82.9,47.12,-0.208045
-PCL+18_Alkaline,Geothermal,Archaea,P1.0631,ERR2240718,NA,NA,75.9,6.79,107.5,-144.5,-159.04,-0.212813
+PCL+18,Geothermal,Bacteria,P1.0013,ERR2240139,NA,NA,33.4,2.14,78.13,440.5,144.9,-0.150088
+PCL+18,Geothermal,Bacteria,P1.0014,ERR2240140,NA,NA,85.2,2.13,153.13,27.2,-319.06,-0.154373
+PCL+18,Geothermal,Bacteria,P1.0067,ERR2240191,NA,NA,26.1,2.33,85.32,425,147.72,-0.158962
+PCL+18,Geothermal,Bacteria,P1.0083,ERR2240207,NA,NA,29.3,2.29,95.63,294.9,12.26,-0.175198
+PCL+18,Geothermal,Bacteria,P1.0118,ERR2240229,NA,NA,93.2,2.46,106.88,75.8,-254.2,-0.186961
+PCL+18,Geothermal,Bacteria,P1.0188,ERR2240289,NA,NA,43.3,2.51,126.57,-33,-314.91,-0.22864
+PCL+18,Geothermal,Bacteria,P1.0192,ERR2240293,NA,NA,73.2,2.1,127.19,-31.9,-368.63,-0.184135
+PCL+18,Geothermal,Bacteria,P1.0229,ERR2240329,NA,NA,24,2.33,51.88,-4.2,-279.53,-0.154016
+PCL+18,Geothermal,Bacteria,P1.0277,ERR2240376,NA,NA,54.9,2.04,40,43.6,-279.24,-0.15566
+PCL+18,Geothermal,Bacteria,P1.0281,ERR2240380,NA,NA,75.2,2.17,46.88,19.4,-314.43,-0.192411
+PCL+18,Geothermal,Bacteria,P1.0283,ERR2240382,NA,NA,27.8,2.53,57.81,164,-102.91,-0.230644
+PCL+18,Geothermal,Bacteria,P1.0298,ERR2240396,NA,NA,65.9,1.72,47.81,-6.5,-361.69,-0.149217
+PCL+18,Geothermal,Bacteria,P1.0300,ERR2240398,NA,NA,34.8,1.69,40.94,-5.4,-329.84,-0.149161
+PCL+18,Geothermal,Bacteria,P1.0316,ERR2240414,NA,NA,54.4,2.49,83.13,-55.2,-348.3,-0.222967
+PCL+18,Geothermal,Bacteria,P1.0352,ERR2240449,NA,NA,31.1,2.6,137.51,47.5,-218.11,-0.150461
+PCL+18,Geothermal,Bacteria,P1.0366,ERR2240463,NA,NA,34.2,2.67,60.31,51.5,-212.55,-0.217012
+PCL+18,Geothermal,Bacteria,P1.0367,ERR2240464,NA,NA,49.2,1.7,63.75,119,-219.98,-0.218888
+PCL+18,Geothermal,Bacteria,P1.0378,ERR2240475,NA,NA,39.7,2.9,64.38,263.3,8.8,-0.22332
+PCL+18,Geothermal,Bacteria,P1.0390,ERR2240487,NA,NA,40.8,2.84,69.07,86.7,-172.43,-0.149214
+PCL+18,Geothermal,Bacteria,P1.0421,ERR2240514,NA,NA,88.3,2.92,82.82,299.9,7.3,-0.181273
+PCL+18,Geothermal,Bacteria,P1.0543,ERR2240632,NA,NA,64.1,2.68,54.38,325.2,36.13,-0.204197
+PCL+18,Geothermal,Bacteria,P1.0674,ERR2240761,NA,NA,19.3,2.85,214.07,432.3,191.5,-0.146594
+PCL+18,Geothermal,Bacteria,P1.0679,ERR2240765,NA,NA,34.5,2.69,72.82,394.1,131.01,-0.176191
+PCL+18,Geothermal,Bacteria,P1.0685,ERR2240771,NA,NA,40.2,2.69,88.44,377.2,109.24,-0.172477
+PCL+18,Geothermal,Bacteria,P1.0688,ERR2240774,NA,NA,29.1,2.62,85.32,138.3,-124.37,-0.147181
+PCL+18,Geothermal,Bacteria,P1.0726,ERR2240811,NA,NA,39.4,2.89,112.82,329,74.13,-0.155386
+PCL+18,Geothermal,Bacteria,P1.0739,ERR2240823,NA,NA,58,2.25,72.82,296.4,-15.69,-0.231609
+PCL+18,Geothermal,Bacteria,P1.0745,ERR2240829,NA,NA,29.6,1.75,94.38,297.7,-17.66,-0.171999
+PCL+18,Geothermal,Bacteria,P1.0766,ERR2240850,NA,NA,21.3,2.52,160.94,502.1,240.37,-0.146701
+PCL+18,Geothermal,Bacteria,P1.0767,ERR2240851,NA,NA,22,2.57,65.31,361.5,102.08,-0.14649
+PCL+18,Geothermal,Bacteria,P1.0770,ERR2240854,NA,NA,36,2.63,98.13,174.4,-93.65,-0.150141
+PCL+18,Geothermal,Bacteria,P1.0777,ERR2240861,NA,NA,42.3,2.04,121.25,422.3,111.86,-0.161929
+PCL+18,Geothermal,Bacteria,P1.0800,ERR2240884,NA,NA,28.5,2.09,66.25,-55.6,-349.47,-0.147007
+PCL+18,Geothermal,Bacteria,P1.0805,ERR2240889,NA,NA,95.8,2.41,35.94,16.7,-319.3,-0.155025
+PCL+18,Geothermal,Bacteria,P1.0814,ERR2240898,NA,NA,51.6,2.67,34.06,164.4,-114.6,-0.229731
+PCL+18,Geothermal,Bacteria,P1.0839,ERR2240922,NA,NA,20.3,2.73,146.88,411.6,162.99,-0.14409
+PCL+18,Geothermal,Bacteria,P1.0858,ERR2240935,NA,NA,80.9,2.41,93.44,-63.9,-386.33,-0.169679
+PCL+18,Geothermal,Bacteria,P1.0860,ERR2240937,NA,NA,83,2.39,95.63,-60.1,-385.86,-0.170441
+PCL+18,Geothermal,Bacteria,P1.0871,ERR2240948,NA,NA,60.6,2.88,73.44,-56,-328.82,-0.229534
+PCL+18,Geothermal,Bacteria,P1.0880,ERR2240957,NA,NA,26.4,1.43,70,39.4,-291.65,-0.167924
+PCL+18,Geothermal,Bacteria,P1.0896,ERR2240972,NA,NA,27.3,2.1,81.88,182,-110.1,-0.152988
+PCL+18,Geothermal,Bacteria,P1.1010,ERR2241051,NA,NA,51.7,1.34,1118.17,67.6,-297.21,-0.190864
+PCL+18,Geothermal,Archaea,P1.0013,ERR2240139,NA,NA,33.4,2.14,78.13,440.5,144.9,-0.206633
+PCL+18,Geothermal,Archaea,P1.0014,ERR2240140,NA,NA,85.2,2.13,153.13,27.2,-319.06,-0.228039
+PCL+18,Geothermal,Archaea,P1.0083,ERR2240207,NA,NA,29.3,2.29,95.63,294.9,12.26,-0.173226
+PCL+18,Geothermal,Archaea,P1.0188,ERR2240289,NA,NA,43.3,2.51,126.57,-33,-314.91,-0.232298
+PCL+18,Geothermal,Archaea,P1.0192,ERR2240293,NA,NA,73.2,2.1,127.19,-31.9,-368.63,-0.226496
+PCL+18,Geothermal,Archaea,P1.0277,ERR2240376,NA,NA,54.9,2.04,40,43.6,-279.24,-0.218008
+PCL+18,Geothermal,Archaea,P1.0281,ERR2240380,NA,NA,75.2,2.17,46.88,19.4,-314.43,-0.218386
+PCL+18,Geothermal,Archaea,P1.0283,ERR2240382,NA,NA,27.8,2.53,57.81,164,-102.91,-0.217038
+PCL+18,Geothermal,Archaea,P1.0316,ERR2240414,NA,NA,54.4,2.49,83.13,-55.2,-348.3,-0.225999
+PCL+18,Geothermal,Archaea,P1.0352,ERR2240449,NA,NA,31.1,2.6,137.51,47.5,-218.11,-0.190116
+PCL+18,Geothermal,Archaea,P1.0366,ERR2240463,NA,NA,34.2,2.67,60.31,51.5,-212.55,-0.213273
+PCL+18,Geothermal,Archaea,P1.0378,ERR2240475,NA,NA,39.7,2.9,64.38,263.3,8.8,-0.217227
+PCL+18,Geothermal,Archaea,P1.0421,ERR2240514,NA,NA,88.3,2.92,82.82,299.9,7.3,-0.18383
+PCL+18,Geothermal,Archaea,P1.0679,ERR2240765,NA,NA,34.5,2.69,72.82,394.1,131.01,-0.214124
+PCL+18,Geothermal,Archaea,P1.0685,ERR2240771,NA,NA,40.2,2.69,88.44,377.2,109.24,-0.216572
+PCL+18,Geothermal,Archaea,P1.0739,ERR2240823,NA,NA,58,2.25,72.82,296.4,-15.69,-0.214268
+PCL+18,Geothermal,Archaea,P1.0745,ERR2240829,NA,NA,29.6,1.75,94.38,297.7,-17.66,-0.240631
+PCL+18,Geothermal,Archaea,P1.0767,ERR2240851,NA,NA,22,2.57,65.31,361.5,102.08,-0.203601
+PCL+18,Geothermal,Archaea,P1.0770,ERR2240854,NA,NA,36,2.63,98.13,174.4,-93.65,-0.216316
+PCL+18,Geothermal,Archaea,P1.0777,ERR2240861,NA,NA,42.3,2.04,121.25,422.3,111.86,-0.175031
+PCL+18,Geothermal,Archaea,P1.0814,ERR2240898,NA,NA,51.6,2.67,34.06,164.4,-114.6,-0.217318
+PCL+18,Geothermal,Archaea,P1.0896,ERR2240972,NA,NA,27.3,2.1,81.88,182,-110.1,-0.217965
+PCL+18,Geothermal,Bacteria,P1.0005,ERR2240133,NA,NA,42.6,8.41,128.13,174.1,262.43,-0.169948
+PCL+18,Geothermal,Bacteria,P1.0020,ERR2240146,NA,NA,47,7.17,115.32,100.3,111.1,-0.161602
+PCL+18,Geothermal,Bacteria,P1.0038,ERR2240164,NA,NA,98.8,7.65,114.38,133.8,181.77,-0.181529
+PCL+18,Geothermal,Bacteria,P1.0043,ERR2240169,NA,NA,97.4,8.39,55.31,68.6,170.79,-0.191054
+PCL+18,Geothermal,Bacteria,P1.0069,ERR2240193,NA,NA,96.6,8.13,53.75,18.2,101.1,-0.187127
+PCL+18,Geothermal,Bacteria,P1.0127,ERR2240237,NA,NA,89.1,8.02,5.31,1.2,74.51,-0.211294
+PCL+18,Geothermal,Bacteria,P1.0145,ERR2240253,NA,NA,35.7,8.5,200.32,76.4,168.32,-0.173789
+PCL+18,Geothermal,Bacteria,P1.0178,ERR2240279,NA,NA,31.7,8.69,279.07,66.9,169.12,-0.171985
+PCL+18,Geothermal,Bacteria,P1.0179,ERR2240280,NA,NA,86.5,7.97,93.44,74.9,144.12,-0.219456
+PCL+18,Geothermal,Bacteria,P1.0209,ERR2240310,NA,NA,83.7,8.38,123.13,57.6,155.31,-0.184945
+PCL+18,Geothermal,Bacteria,P1.0212,ERR2240313,NA,NA,50.9,6.08,168.76,168.7,109.55,-0.184185
+PCL+18,Geothermal,Bacteria,P1.0248,ERR2240347,NA,NA,99,7.42,43.75,28.9,59.91,-0.219503
+PCL+18,Geothermal,Bacteria,P1.0256,ERR2240355,NA,NA,66.1,8.35,93.13,27.7,118.57,-0.164539
+PCL+18,Geothermal,Bacteria,P1.0259,ERR2240358,NA,NA,40.3,7.34,141.57,46.8,67.95,-0.184727
+PCL+18,Geothermal,Bacteria,P1.0262,ERR2240361,NA,NA,73.6,7.89,71.25,14.7,75.93,-0.204418
+PCL+18,Geothermal,Bacteria,P1.0304,ERR2240402,NA,NA,34.2,6.97,122.5,-18.1,-19.93,-0.153427
+PCL+18,Geothermal,Bacteria,P1.0343,ERR2240440,NA,NA,69.6,6.21,86.25,-231,-284.72,-0.24297
+PCL+18,Geothermal,Bacteria,P1.0408,ERR2240505,NA,NA,80.8,8.07,50,-121.5,-46.36,-0.217241
+PCL+18,Geothermal,Bacteria,P1.0429,ERR2240522,NA,NA,61.6,6.93,115.32,30,25.35,-0.224566
+PCL+18,Geothermal,Bacteria,P1.0433,ERR2240526,NA,NA,67,6.28,75.63,-19.4,-67.99,-0.233182
+PCL+18,Geothermal,Bacteria,P1.0434,ERR2240527,NA,NA,46,7.14,139.07,107.6,116.47,-0.175317
+PCL+18,Geothermal,Bacteria,P1.0438,ERR2240531,NA,NA,82.9,7.31,73.75,77,98.9,-0.190652
+PCL+18,Geothermal,Bacteria,P1.0456,ERR2240548,NA,NA,55,7.15,130,76.2,85.97,-0.165292
+PCL+18,Geothermal,Bacteria,P1.0498,ERR2240587,NA,NA,70.8,7,53.44,126.5,126.5,-0.220303
+PCL+18,Geothermal,Bacteria,P1.0513,ERR2240602,NA,NA,78.1,6.27,58.75,173.9,123.03,-0.213253
+PCL+18,Geothermal,Bacteria,P1.0524,ERR2240613,NA,NA,90.4,9.01,23.13,-142.4,2.59,-0.240894
+PCL+18,Geothermal,Bacteria,P1.0560,ERR2240648,NA,NA,55.3,6.48,10.94,-66.7,-100.59,-0.191097
+PCL+18,Geothermal,Bacteria,P1.0579,ERR2240666,NA,NA,67.1,6.47,28.44,82.9,47.12,-0.201827
+PCL+18,Geothermal,Bacteria,P1.0624,ERR2240711,NA,NA,95.9,6.04,210.95,-231,-301.29,-0.223066
+PCL+18,Geothermal,Bacteria,P1.0631,ERR2240718,NA,NA,75.9,6.79,107.5,-144.5,-159.04,-0.230538
+PCL+18,Geothermal,Bacteria,P1.0645,ERR2240732,NA,NA,37.9,6.56,185.63,25.2,-1.95,-0.163918
+PCL+18,Geothermal,Bacteria,P1.0648,ERR2240735,NA,NA,52.4,9.02,55.94,-134.8,-4.32,-0.176031
+PCL+18,Geothermal,Bacteria,P1.0701,ERR2240787,NA,NA,86.1,7.67,119.69,-271,-223.24,-0.22199
+PCL+18,Geothermal,Bacteria,P1.0716,ERR2240801,NA,NA,97.5,8.38,33.44,-296.7,-195.21,-0.220824
+PCL+18,Geothermal,Bacteria,P1.0753,ERR2240837,NA,NA,90,6.88,66.88,53.8,45.15,-0.176735
+PCL+18,Geothermal,Bacteria,P1.0772,ERR2240856,NA,NA,31.2,6.67,87.82,19.2,-0.73,-0.164899
+PCL+18,Geothermal,Bacteria,P1.0792,ERR2240876,NA,NA,34.2,6.33,49.38,-146.7,-187.56,-0.176836
+PCL+18,Geothermal,Bacteria,P1.0970,ERR2241024,NA,NA,68.4,6.78,56.25,2.7,-12.21,-0.227104
+PCL+18,Geothermal,Bacteria,P1.0978,ERR2241032,NA,NA,21.5,6.25,107.82,67.4,23.55,-0.165331
+PCL+18,Geothermal,Archaea,P1.0069,ERR2240193,NA,NA,96.6,8.13,53.75,18.2,101.1,-0.199213
+PCL+18,Geothermal,Archaea,P1.0179,ERR2240280,NA,NA,86.5,7.97,93.44,74.9,144.12,-0.233073
+PCL+18,Geothermal,Archaea,P1.0209,ERR2240310,NA,NA,83.7,8.38,123.13,57.6,155.31,-0.236822
+PCL+18,Geothermal,Archaea,P1.0343,ERR2240440,NA,NA,69.6,6.21,86.25,-231,-284.72,-0.22026
+PCL+18,Geothermal,Archaea,P1.0438,ERR2240531,NA,NA,82.9,7.31,73.75,77,98.9,-0.237619
+PCL+18,Geothermal,Archaea,P1.0456,ERR2240548,NA,NA,55,7.15,130,76.2,85.97,-0.201477
+PCL+18,Geothermal,Archaea,P1.0524,ERR2240613,NA,NA,90.4,9.01,23.13,-142.4,2.59,-0.218131
+PCL+18,Geothermal,Archaea,P1.0579,ERR2240666,NA,NA,67.1,6.47,28.44,82.9,47.12,-0.208045
+PCL+18,Geothermal,Archaea,P1.0631,ERR2240718,NA,NA,75.9,6.79,107.5,-144.5,-159.04,-0.212813
 GWS+20,Geothermal,Bacteria,BT1,SRR10580898,Hydrothermal Field,Batang,43.3,6.7,55.3,127,108.16,-0.152757
 GWS+20,Geothermal,Bacteria,BT2,SRR10580896,Hydrothermal Field,Batang,45.5,7,37.16,-50,-50,-0.160978
 GWS+20,Geothermal,Bacteria,BT3,SRR10580889,Hydrothermal Field,Batang,64.4,7.7,51.47,-181,-134.12,-0.20614
@@ -2174,62 +2174,62 @@ HDZ+19,Sediment,Bacteria,R1S,SRR4995761,Type,Sediment,25,7.1,NA,-362,-356.08,-0.
 HDZ+19,Sediment,Bacteria,R2S,SRR4995762,Type,Sediment,25,7.21,NA,-250,-237.58,-0.161782
 HDZ+19,Sediment,Bacteria,R3W,SRR4995855,Type,Water,13.71,8.78,176.26,38.5,139.81,-0.167192
 HDZ+19,Sediment,Bacteria,R4W,SRR4995856,Type,Water,13.46,8.86,54.06,35.08,140.85,-0.160724
-OHL+18_DNA,Sediment,Bacteria,DK361,SRR5826254,Location,Kalø Vig,NA,7.9,125,150,203.24,-0.156183
-OHL+18_DNA,Sediment,Bacteria,DK362,SRR5826213,Location,Kalø Vig,NA,7.5,0,75,104.58,-0.157293
-OHL+18_DNA,Sediment,Bacteria,DK363,SRR5826212,Location,Kalø Vig,NA,7.5,0,50,79.58,-0.154938
-OHL+18_DNA,Sediment,Bacteria,DK364,SRR5826215,Location,Kalø Vig,NA,7.3,0,50,67.75,-0.155673
-OHL+18_DNA,Sediment,Bacteria,DK451,SRR5826214,Location,Kalø Vig,NA,7.9,125,150,203.24,-0.154041
-OHL+18_DNA,Sediment,Bacteria,DK452,SRR5826207,Location,Kalø Vig,NA,7.5,0,75,104.58,-0.153549
-OHL+18_DNA,Sediment,Bacteria,DK453,SRR5826205,Location,Kalø Vig,NA,7.5,0,50,79.58,-0.154218
-OHL+18_DNA,Sediment,Bacteria,DK454,SRR5826242,Location,Kalø Vig,NA,7.3,0,50,67.75,-0.153041
-OHL+18_DNA,Sediment,Bacteria,DK851,SRR5826243,Location,Kalø Vig,NA,7.9,125,150,203.24,-0.157228
-OHL+18_DNA,Sediment,Bacteria,DK852,SRR5826244,Location,Kalø Vig,NA,7.5,0,75,104.58,-0.156282
-OHL+18_DNA,Sediment,Bacteria,DK853,SRR5826245,Location,Kalø Vig,NA,7.5,0,50,79.58,-0.154382
-OHL+18_DNA,Sediment,Bacteria,DK854,SRR5826238,Location,Kalø Vig,NA,7.3,0,50,67.75,-0.153972
-OHL+18_DNA,Sediment,Bacteria,DL1,SRR5826234,Location,Lake Constance,NA,7.6,150,293,328.49,-0.152425
-OHL+18_DNA,Sediment,Bacteria,DL2,SRR5826204,Location,Lake Constance,NA,7.6,3,190,225.49,-0.152721
-OHL+18_DNA,Sediment,Bacteria,DL3,SRR5826202,Location,Lake Constance,NA,7.5,0,117,146.58,-0.15219
-OHL+18_DNA,Sediment,Bacteria,DL4,SRR5826210,Location,Lake Constance,NA,7.5,0,117,146.58,-0.15186
-OHL+18_DNA,Sediment,Bacteria,DL5,SRR5826203,Location,Lake Constance,NA,7.4,0,110,133.66,-0.153507
-OHL+18_DNA,Sediment,Bacteria,DL6,SRR5826208,Location,Lake Constance,NA,7.6,150,293,328.49,-0.151592
-OHL+18_DNA,Sediment,Bacteria,DL7,SRR5826211,Location,Lake Constance,NA,7.6,3,190,225.49,-0.152239
-OHL+18_DNA,Sediment,Bacteria,DL8,SRR5826229,Location,Lake Constance,NA,7.5,0,117,146.58,-0.153344
-OHL+18_DNA,Sediment,Bacteria,DL9,SRR5826230,Location,Lake Constance,NA,7.4,0,110,133.66,-0.156109
-OHL+18_DNA,Sediment,Bacteria,DN081,SRR5826239,Location,Norsminde Fjord,NA,7.85,125,140,190.28,-0.155051
-OHL+18_DNA,Sediment,Bacteria,DN082,SRR5826240,Location,Norsminde Fjord,NA,7.5,0,0,29.58,-0.154096
-OHL+18_DNA,Sediment,Bacteria,DN083,SRR5826241,Location,Norsminde Fjord,NA,7.5,0,-100,-70.42,-0.156886
-OHL+18_DNA,Sediment,Bacteria,DN084,SRR5826235,Location,Norsminde Fjord,NA,7.3,0,-100,-82.25,-0.157404
-OHL+18_DNA,Sediment,Bacteria,DN181,SRR5826236,Location,Norsminde Fjord,NA,7.85,125,140,190.28,-0.156473
-OHL+18_DNA,Sediment,Bacteria,DN182,SRR5826237,Location,Norsminde Fjord,NA,7.5,0,0,29.58,-0.156646
-OHL+18_DNA,Sediment,Bacteria,DN183,SRR5826233,Location,Norsminde Fjord,NA,7.5,0,-100,-70.42,-0.159168
-OHL+18_DNA,Sediment,Bacteria,DN184,SRR5826232,Location,Norsminde Fjord,NA,7.3,0,-100,-82.25,-0.157925
-OHL+18_DNA,Sediment,Bacteria,DN461,SRR5826231,Location,Norsminde Fjord,NA,7.85,125,140,190.28,-0.155418
-OHL+18_DNA,Sediment,Bacteria,DN462,SRR5826228,Location,Norsminde Fjord,NA,7.5,0,0,29.58,-0.155838
-OHL+18_DNA,Sediment,Bacteria,DN463,SRR5826209,Location,Norsminde Fjord,NA,7.5,0,-100,-70.42,-0.15651
-OHL+18_DNA,Sediment,Bacteria,DN464,SRR5826259,Location,Norsminde Fjord,NA,7.3,0,-100,-82.25,-0.159205
-OHL+18_DNA,Sediment,Archaea,DK363,SRR5826212,Location,Kalø Vig,NA,7.5,0,50,79.58,-0.191213
-OHL+18_DNA,Sediment,Archaea,DK364,SRR5826215,Location,Kalø Vig,NA,7.3,0,50,67.75,-0.195235
-OHL+18_DNA,Sediment,Archaea,DK454,SRR5826242,Location,Kalø Vig,NA,7.3,0,50,67.75,-0.191758
-OHL+18_DNA,Sediment,Archaea,DK854,SRR5826238,Location,Kalø Vig,NA,7.3,0,50,67.75,-0.191783
-OHL+18_DNA,Sediment,Archaea,DL2,SRR5826204,Location,Lake Constance,NA,7.6,3,190,225.49,-0.18704
-OHL+18_DNA,Sediment,Archaea,DL3,SRR5826202,Location,Lake Constance,NA,7.5,0,117,146.58,-0.188164
-OHL+18_DNA,Sediment,Archaea,DL4,SRR5826210,Location,Lake Constance,NA,7.5,0,117,146.58,-0.188036
-OHL+18_DNA,Sediment,Archaea,DL5,SRR5826203,Location,Lake Constance,NA,7.4,0,110,133.66,-0.187477
-OHL+18_DNA,Sediment,Archaea,DL6,SRR5826208,Location,Lake Constance,NA,7.6,150,293,328.49,-0.18824
-OHL+18_DNA,Sediment,Archaea,DL7,SRR5826211,Location,Lake Constance,NA,7.6,3,190,225.49,-0.188207
-OHL+18_DNA,Sediment,Archaea,DL8,SRR5826229,Location,Lake Constance,NA,7.5,0,117,146.58,-0.18627
-OHL+18_DNA,Sediment,Archaea,DL9,SRR5826230,Location,Lake Constance,NA,7.4,0,110,133.66,-0.184179
-OHL+18_DNA,Sediment,Archaea,DN082,SRR5826240,Location,Norsminde Fjord,NA,7.5,0,0,29.58,-0.194111
-OHL+18_DNA,Sediment,Archaea,DN083,SRR5826241,Location,Norsminde Fjord,NA,7.5,0,-100,-70.42,-0.195975
-OHL+18_DNA,Sediment,Archaea,DN084,SRR5826235,Location,Norsminde Fjord,NA,7.3,0,-100,-82.25,-0.193913
-OHL+18_DNA,Sediment,Archaea,DN181,SRR5826236,Location,Norsminde Fjord,NA,7.85,125,140,190.28,-0.196736
-OHL+18_DNA,Sediment,Archaea,DN182,SRR5826237,Location,Norsminde Fjord,NA,7.5,0,0,29.58,-0.194247
-OHL+18_DNA,Sediment,Archaea,DN183,SRR5826233,Location,Norsminde Fjord,NA,7.5,0,-100,-70.42,-0.195038
-OHL+18_DNA,Sediment,Archaea,DN184,SRR5826232,Location,Norsminde Fjord,NA,7.3,0,-100,-82.25,-0.195022
-OHL+18_DNA,Sediment,Archaea,DN461,SRR5826231,Location,Norsminde Fjord,NA,7.85,125,140,190.28,-0.193678
-OHL+18_DNA,Sediment,Archaea,DN462,SRR5826228,Location,Norsminde Fjord,NA,7.5,0,0,29.58,-0.193568
-OHL+18_DNA,Sediment,Archaea,DN463,SRR5826209,Location,Norsminde Fjord,NA,7.5,0,-100,-70.42,-0.192132
-OHL+18_DNA,Sediment,Archaea,DN464,SRR5826259,Location,Norsminde Fjord,NA,7.3,0,-100,-82.25,-0.190789
+OHL+18,Sediment,Bacteria,DK361,SRR5826254,Location,Kalø Vig,NA,7.9,125,150,203.24,-0.156183
+OHL+18,Sediment,Bacteria,DK362,SRR5826213,Location,Kalø Vig,NA,7.5,0,75,104.58,-0.157293
+OHL+18,Sediment,Bacteria,DK363,SRR5826212,Location,Kalø Vig,NA,7.5,0,50,79.58,-0.154938
+OHL+18,Sediment,Bacteria,DK364,SRR5826215,Location,Kalø Vig,NA,7.3,0,50,67.75,-0.155673
+OHL+18,Sediment,Bacteria,DK451,SRR5826214,Location,Kalø Vig,NA,7.9,125,150,203.24,-0.154041
+OHL+18,Sediment,Bacteria,DK452,SRR5826207,Location,Kalø Vig,NA,7.5,0,75,104.58,-0.153549
+OHL+18,Sediment,Bacteria,DK453,SRR5826205,Location,Kalø Vig,NA,7.5,0,50,79.58,-0.154218
+OHL+18,Sediment,Bacteria,DK454,SRR5826242,Location,Kalø Vig,NA,7.3,0,50,67.75,-0.153041
+OHL+18,Sediment,Bacteria,DK851,SRR5826243,Location,Kalø Vig,NA,7.9,125,150,203.24,-0.157228
+OHL+18,Sediment,Bacteria,DK852,SRR5826244,Location,Kalø Vig,NA,7.5,0,75,104.58,-0.156282
+OHL+18,Sediment,Bacteria,DK853,SRR5826245,Location,Kalø Vig,NA,7.5,0,50,79.58,-0.154382
+OHL+18,Sediment,Bacteria,DK854,SRR5826238,Location,Kalø Vig,NA,7.3,0,50,67.75,-0.153972
+OHL+18,Sediment,Bacteria,DL1,SRR5826234,Location,Lake Constance,NA,7.6,150,293,328.49,-0.152425
+OHL+18,Sediment,Bacteria,DL2,SRR5826204,Location,Lake Constance,NA,7.6,3,190,225.49,-0.152721
+OHL+18,Sediment,Bacteria,DL3,SRR5826202,Location,Lake Constance,NA,7.5,0,117,146.58,-0.15219
+OHL+18,Sediment,Bacteria,DL4,SRR5826210,Location,Lake Constance,NA,7.5,0,117,146.58,-0.15186
+OHL+18,Sediment,Bacteria,DL5,SRR5826203,Location,Lake Constance,NA,7.4,0,110,133.66,-0.153507
+OHL+18,Sediment,Bacteria,DL6,SRR5826208,Location,Lake Constance,NA,7.6,150,293,328.49,-0.151592
+OHL+18,Sediment,Bacteria,DL7,SRR5826211,Location,Lake Constance,NA,7.6,3,190,225.49,-0.152239
+OHL+18,Sediment,Bacteria,DL8,SRR5826229,Location,Lake Constance,NA,7.5,0,117,146.58,-0.153344
+OHL+18,Sediment,Bacteria,DL9,SRR5826230,Location,Lake Constance,NA,7.4,0,110,133.66,-0.156109
+OHL+18,Sediment,Bacteria,DN081,SRR5826239,Location,Norsminde Fjord,NA,7.85,125,140,190.28,-0.155051
+OHL+18,Sediment,Bacteria,DN082,SRR5826240,Location,Norsminde Fjord,NA,7.5,0,0,29.58,-0.154096
+OHL+18,Sediment,Bacteria,DN083,SRR5826241,Location,Norsminde Fjord,NA,7.5,0,-100,-70.42,-0.156886
+OHL+18,Sediment,Bacteria,DN084,SRR5826235,Location,Norsminde Fjord,NA,7.3,0,-100,-82.25,-0.157404
+OHL+18,Sediment,Bacteria,DN181,SRR5826236,Location,Norsminde Fjord,NA,7.85,125,140,190.28,-0.156473
+OHL+18,Sediment,Bacteria,DN182,SRR5826237,Location,Norsminde Fjord,NA,7.5,0,0,29.58,-0.156646
+OHL+18,Sediment,Bacteria,DN183,SRR5826233,Location,Norsminde Fjord,NA,7.5,0,-100,-70.42,-0.159168
+OHL+18,Sediment,Bacteria,DN184,SRR5826232,Location,Norsminde Fjord,NA,7.3,0,-100,-82.25,-0.157925
+OHL+18,Sediment,Bacteria,DN461,SRR5826231,Location,Norsminde Fjord,NA,7.85,125,140,190.28,-0.155418
+OHL+18,Sediment,Bacteria,DN462,SRR5826228,Location,Norsminde Fjord,NA,7.5,0,0,29.58,-0.155838
+OHL+18,Sediment,Bacteria,DN463,SRR5826209,Location,Norsminde Fjord,NA,7.5,0,-100,-70.42,-0.15651
+OHL+18,Sediment,Bacteria,DN464,SRR5826259,Location,Norsminde Fjord,NA,7.3,0,-100,-82.25,-0.159205
+OHL+18,Sediment,Archaea,DK363,SRR5826212,Location,Kalø Vig,NA,7.5,0,50,79.58,-0.191213
+OHL+18,Sediment,Archaea,DK364,SRR5826215,Location,Kalø Vig,NA,7.3,0,50,67.75,-0.195235
+OHL+18,Sediment,Archaea,DK454,SRR5826242,Location,Kalø Vig,NA,7.3,0,50,67.75,-0.191758
+OHL+18,Sediment,Archaea,DK854,SRR5826238,Location,Kalø Vig,NA,7.3,0,50,67.75,-0.191783
+OHL+18,Sediment,Archaea,DL2,SRR5826204,Location,Lake Constance,NA,7.6,3,190,225.49,-0.18704
+OHL+18,Sediment,Archaea,DL3,SRR5826202,Location,Lake Constance,NA,7.5,0,117,146.58,-0.188164
+OHL+18,Sediment,Archaea,DL4,SRR5826210,Location,Lake Constance,NA,7.5,0,117,146.58,-0.188036
+OHL+18,Sediment,Archaea,DL5,SRR5826203,Location,Lake Constance,NA,7.4,0,110,133.66,-0.187477
+OHL+18,Sediment,Archaea,DL6,SRR5826208,Location,Lake Constance,NA,7.6,150,293,328.49,-0.18824
+OHL+18,Sediment,Archaea,DL7,SRR5826211,Location,Lake Constance,NA,7.6,3,190,225.49,-0.188207
+OHL+18,Sediment,Archaea,DL8,SRR5826229,Location,Lake Constance,NA,7.5,0,117,146.58,-0.18627
+OHL+18,Sediment,Archaea,DL9,SRR5826230,Location,Lake Constance,NA,7.4,0,110,133.66,-0.184179
+OHL+18,Sediment,Archaea,DN082,SRR5826240,Location,Norsminde Fjord,NA,7.5,0,0,29.58,-0.194111
+OHL+18,Sediment,Archaea,DN083,SRR5826241,Location,Norsminde Fjord,NA,7.5,0,-100,-70.42,-0.195975
+OHL+18,Sediment,Archaea,DN084,SRR5826235,Location,Norsminde Fjord,NA,7.3,0,-100,-82.25,-0.193913
+OHL+18,Sediment,Archaea,DN181,SRR5826236,Location,Norsminde Fjord,NA,7.85,125,140,190.28,-0.196736
+OHL+18,Sediment,Archaea,DN182,SRR5826237,Location,Norsminde Fjord,NA,7.5,0,0,29.58,-0.194247
+OHL+18,Sediment,Archaea,DN183,SRR5826233,Location,Norsminde Fjord,NA,7.5,0,-100,-70.42,-0.195038
+OHL+18,Sediment,Archaea,DN184,SRR5826232,Location,Norsminde Fjord,NA,7.3,0,-100,-82.25,-0.195022
+OHL+18,Sediment,Archaea,DN461,SRR5826231,Location,Norsminde Fjord,NA,7.85,125,140,190.28,-0.193678
+OHL+18,Sediment,Archaea,DN462,SRR5826228,Location,Norsminde Fjord,NA,7.5,0,0,29.58,-0.193568
+OHL+18,Sediment,Archaea,DN463,SRR5826209,Location,Norsminde Fjord,NA,7.5,0,-100,-70.42,-0.192132
+OHL+18,Sediment,Archaea,DN464,SRR5826259,Location,Norsminde Fjord,NA,7.3,0,-100,-82.25,-0.190789
 WHLH21a,Sediment,Bacteria,S1SS,SRR5974409,Position,Surface,NA,NA,NA,-224,-224,-0.183643
 WHLH21a,Sediment,Bacteria,S1MS,SRR5974408,Position,Middle,NA,NA,NA,-324,-324,-0.133801
 WHLH21a,Sediment,Bacteria,S1BS,SRR5974413,Position,Bottom,NA,NA,NA,-360,-360,-0.137031
@@ -2398,71 +2398,71 @@ ZHZ+19,Sediment,Archaea,nNP4.3,SRR8607596,Treatment,Nitrate-reducing,NA,NA,NA,-7
 ZHZ+19,Sediment,Archaea,nSP4.1,SRR8607602,Treatment,Sulfate-reducing,NA,NA,NA,-330,-330,-0.173872
 ZHZ+19,Sediment,Archaea,nSP4.2,SRR8607590,Treatment,Sulfate-reducing,NA,NA,NA,-330,-330,-0.170565
 ZHZ+19,Sediment,Archaea,nSP4.3,SRR8607589,Treatment,Sulfate-reducing,NA,NA,NA,-330,-330,-0.176632
-LMBA21_2017,Sediment,Bacteria,EOK10_Su2017,ERR3711614,Season,Summer,NA,NA,254.94,-94,-94,-0.155203
-LMBA21_2017,Sediment,Bacteria,EOK10_Wi2017,ERR3711620,Season,Winter,NA,NA,267.31,-34,-34,-0.163574
-LMBA21_2017,Sediment,Bacteria,EOK20_Su2017,ERR3711625,Season,Summer,NA,NA,255.48,212,212,-0.147559
-LMBA21_2017,Sediment,Bacteria,EOK20_Wi2017,ERR3711629,Season,Winter,NA,NA,301.2,66,66,-0.148911
-LMBA21_2017,Sediment,Bacteria,EU05_Wi2017,ERR3711640,Season,Winter,NA,NA,269.2,-58,-58,-0.15859
-LMBA21_2017,Sediment,Bacteria,EU08_Wi2017,ERR3711651,Season,Winter,NA,NA,248.22,-49,-49,-0.16135
-LMBA21_2017,Sediment,Bacteria,EU10_Wi2017,ERR3711661,Season,Winter,NA,NA,233.7,40,40,-0.160657
-LMBA21_2017,Sediment,Bacteria,EUR05_Wi2017,ERR3711669,Season,Winter,NA,NA,260.59,383,383,-0.163769
-LMBA21_2017,Sediment,Bacteria,EUR10_Wi2017,ERR3711678,Season,Winter,NA,NA,268.39,373,373,-0.147071
-LMBA21_2017,Sediment,Bacteria,LN10_Wi2017,ERR3711697,Season,Winter,NA,NA,254.67,286,286,-0.144877
-LMBA21_2017,Sediment,Bacteria,LN20_Wi2017,ERR3711699,Season,Winter,NA,NA,254.67,433,433,-0.143081
-LMBA21_2017,Sediment,Bacteria,LUR20_Wi2017,ERR3711708,Season,Winter,NA,NA,252.25,340,340,-0.148115
-LMBA21_2017,Sediment,Bacteria,EN15_Su2017,ERR3711514,Season,Summer,NA,NA,NA,-54,-54,-0.159122
-LMBA21_2017,Sediment,Bacteria,EN15_Wi2017,ERR3711519,Season,Winter,NA,NA,208.69,-130,-130,-0.161521
-LMBA21_2017,Sediment,Bacteria,EN17_Su2017,ERR3711525,Season,Summer,NA,NA,221.6,-48,-48,-0.154478
-LMBA21_2017,Sediment,Bacteria,EN17_Wi2017,ERR3711531,Season,Winter,NA,NA,264.09,-64,-64,-0.156557
-LMBA21_2017,Sediment,Bacteria,EN20_Su2017,ERR3711535,Season,Summer,NA,NA,241.5,-95,-95,-0.161277
-LMBA21_2017,Sediment,Bacteria,EN20_Wi2017,ERR3711542,Season,Winter,NA,NA,264.89,-7,-7,-0.164909
-LMBA21_2017,Sediment,Bacteria,EN30_Su2017,ERR3711547,Season,Summer,NA,NA,236.92,383,383,-0.146904
-LMBA21_2017,Sediment,Bacteria,EN30_Wi2017,ERR3711552,Season,Winter,NA,NA,255.48,370,370,-0.14648
-LMBA21_2017,Sediment,Bacteria,EO05_Wi2017,ERR3711559,Season,Winter,NA,NA,240.15,-33,-33,-0.161665
-LMBA21_2017,Sediment,Bacteria,EO10_Wi2017,ERR3711566,Season,Winter,NA,NA,237.19,436,436,-0.148544
-LMBA21_2017,Sediment,Bacteria,EO10_Wi2017,ERR3711567,Season,Winter,NA,NA,237.19,436,436,-0.148251
-LMBA21_2017,Sediment,Bacteria,EOI10_Su2017,ERR3711571,Season,Summer,NA,NA,235.85,-204,-204,-0.162628
-LMBA21_2017,Sediment,Bacteria,EOI10_Wi2017,ERR3711577,Season,Winter,NA,NA,233.43,-64,-64,-0.16522
-LMBA21_2017,Sediment,Bacteria,EOI15_Su2017,ERR3711582,Season,Summer,NA,NA,219.44,-202,-202,-0.16273
-LMBA21_2017,Sediment,Bacteria,EOI15_Wi2017,ERR3711588,Season,Winter,NA,NA,254.94,144,144,-0.149187
-LMBA21_2017,Sediment,Bacteria,EOI20_Su2017,ERR3711592,Season,Summer,NA,NA,254.4,-153,-153,-0.157767
-LMBA21_2017,Sediment,Bacteria,EOI20_Wi2017,ERR3711600,Season,Winter,NA,NA,256.02,-174,-174,-0.155173
-LMBA21_2017,Sediment,Bacteria,EOK05_Su2017,ERR3711603,Season,Summer,NA,NA,104.34,-33,-33,-0.162347
-LMBA21_2017,Sediment,Bacteria,EOK05_Wi2017,ERR3711609,Season,Winter,NA,NA,180.45,-42,-42,-0.16137
-LMBA21_2017,Sediment,Bacteria,EB05_Wi2017,ERR3711415,Season,Winter,NA,NA,233.97,76,76,-0.156151
-LMBA21_2017,Sediment,Bacteria,EB07_Wi2017,ERR3711423,Season,Winter,NA,NA,236.39,166,166,-0.155337
-LMBA21_2017,Sediment,Bacteria,EB10_Wi2017,ERR3711430,Season,Winter,NA,NA,261.93,110,110,-0.157824
-LMBA21_2017,Sediment,Bacteria,EBI05_Wi2017,ERR3711437,Season,Winter,NA,NA,241.5,476,476,-0.151797
-LMBA21_2017,Sediment,Bacteria,EBI10_Wi2017,ERR3711443,Season,Winter,NA,NA,221.86,246,246,-0.154468
-LMBA21_2017,Sediment,Bacteria,EBI20_Wi2017,ERR3711449,Season,Winter,NA,NA,246.34,396,396,-0.147691
-LMBA21_2017,Sediment,Bacteria,ED05_Wi2017,ERR3711461,Season,Winter,NA,NA,296.9,188,188,-0.157498
-LMBA21_2017,Sediment,Bacteria,ED10_Wi2017,ERR3711471,Season,Winter,NA,NA,221.33,176,176,-0.153839
-LMBA21_2017,Sediment,Bacteria,EL05_Wi2017,ERR3711478,Season,Winter,NA,NA,264.62,161,161,-0.156179
-LMBA21_2017,Sediment,Bacteria,EL05_Wi2017,ERR3711479,Season,Winter,NA,NA,264.62,161,161,-0.156152
-LMBA21_2017,Sediment,Bacteria,EL10_Wi2017,ERR3711487,Season,Winter,NA,NA,219.44,319,319,-0.155114
-LMBA21_2017,Sediment,Bacteria,EM05_Wi2017,ERR3711494,Season,Winter,NA,NA,246.34,129,129,-0.153205
-LMBA21_2017,Sediment,Bacteria,EM10_Wi2017,ERR3711502,Season,Winter,NA,NA,259.25,394,394,-0.143334
-LMBA21_2017,Sediment,Bacteria,EN10_Wi2017,ERR3711511,Season,Winter,NA,NA,211.38,-47,-47,-0.163207
-LMBA21_2017,Sediment,Bacteria,EA05_Wi2017,ERR3711400,Season,Winter,NA,NA,257.9,353,353,-0.153396
-LMBA21_2017,Sediment,Bacteria,EA10_Wi2017,ERR3711407,Season,Winter,NA,NA,200.89,-94,-94,-0.168388
-LMBA21_2017,Sediment,Archaea,EOK20_Wi2017,ERR3711629,Season,Winter,NA,NA,301.2,66,66,-0.188106
-LMBA21_2017,Sediment,Archaea,EUR10_Wi2017,ERR3711678,Season,Winter,NA,NA,268.39,373,373,-0.187964
-LMBA21_2017,Sediment,Archaea,LN10_Wi2017,ERR3711697,Season,Winter,NA,NA,254.67,286,286,-0.188195
-LMBA21_2017,Sediment,Archaea,LN20_Wi2017,ERR3711699,Season,Winter,NA,NA,254.67,433,433,-0.188147
-LMBA21_2017,Sediment,Archaea,LUR20_Wi2017,ERR3711708,Season,Winter,NA,NA,252.25,340,340,-0.187668
-LMBA21_2017,Sediment,Archaea,EN15_Su2017,ERR3711514,Season,Summer,NA,NA,NA,-54,-54,-0.19316
-LMBA21_2017,Sediment,Archaea,EN17_Su2017,ERR3711525,Season,Summer,NA,NA,221.6,-48,-48,-0.188475
-LMBA21_2017,Sediment,Archaea,EN20_Su2017,ERR3711535,Season,Summer,NA,NA,241.5,-95,-95,-0.194791
-LMBA21_2017,Sediment,Archaea,EN20_Wi2017,ERR3711542,Season,Winter,NA,NA,264.89,-7,-7,-0.195137
-LMBA21_2017,Sediment,Archaea,EN30_Su2017,ERR3711547,Season,Summer,NA,NA,236.92,383,383,-0.188396
-LMBA21_2017,Sediment,Archaea,EN30_Wi2017,ERR3711552,Season,Winter,NA,NA,255.48,370,370,-0.188165
-LMBA21_2017,Sediment,Archaea,EO10_Wi2017,ERR3711566,Season,Winter,NA,NA,237.19,436,436,-0.189137
-LMBA21_2017,Sediment,Archaea,EO10_Wi2017,ERR3711567,Season,Winter,NA,NA,237.19,436,436,-0.189466
-LMBA21_2017,Sediment,Archaea,EOI15_Su2017,ERR3711582,Season,Summer,NA,NA,219.44,-202,-202,-0.191321
-LMBA21_2017,Sediment,Archaea,EOI20_Su2017,ERR3711592,Season,Summer,NA,NA,254.4,-153,-153,-0.194719
-LMBA21_2017,Sediment,Archaea,EOI20_Wi2017,ERR3711600,Season,Winter,NA,NA,256.02,-174,-174,-0.189016
-LMBA21_2017,Sediment,Archaea,EBI20_Wi2017,ERR3711449,Season,Winter,NA,NA,246.34,396,396,-0.188035
-LMBA21_2017,Sediment,Archaea,EM10_Wi2017,ERR3711502,Season,Winter,NA,NA,259.25,394,394,-0.191544
+LMBA21,Sediment,Bacteria,EOK10_Su2017,ERR3711614,Season,Summer,NA,NA,254.94,-94,-94,-0.155203
+LMBA21,Sediment,Bacteria,EOK10_Wi2017,ERR3711620,Season,Winter,NA,NA,267.31,-34,-34,-0.163574
+LMBA21,Sediment,Bacteria,EOK20_Su2017,ERR3711625,Season,Summer,NA,NA,255.48,212,212,-0.147559
+LMBA21,Sediment,Bacteria,EOK20_Wi2017,ERR3711629,Season,Winter,NA,NA,301.2,66,66,-0.148911
+LMBA21,Sediment,Bacteria,EU05_Wi2017,ERR3711640,Season,Winter,NA,NA,269.2,-58,-58,-0.15859
+LMBA21,Sediment,Bacteria,EU08_Wi2017,ERR3711651,Season,Winter,NA,NA,248.22,-49,-49,-0.16135
+LMBA21,Sediment,Bacteria,EU10_Wi2017,ERR3711661,Season,Winter,NA,NA,233.7,40,40,-0.160657
+LMBA21,Sediment,Bacteria,EUR05_Wi2017,ERR3711669,Season,Winter,NA,NA,260.59,383,383,-0.163769
+LMBA21,Sediment,Bacteria,EUR10_Wi2017,ERR3711678,Season,Winter,NA,NA,268.39,373,373,-0.147071
+LMBA21,Sediment,Bacteria,LN10_Wi2017,ERR3711697,Season,Winter,NA,NA,254.67,286,286,-0.144877
+LMBA21,Sediment,Bacteria,LN20_Wi2017,ERR3711699,Season,Winter,NA,NA,254.67,433,433,-0.143081
+LMBA21,Sediment,Bacteria,LUR20_Wi2017,ERR3711708,Season,Winter,NA,NA,252.25,340,340,-0.148115
+LMBA21,Sediment,Bacteria,EN15_Su2017,ERR3711514,Season,Summer,NA,NA,NA,-54,-54,-0.159122
+LMBA21,Sediment,Bacteria,EN15_Wi2017,ERR3711519,Season,Winter,NA,NA,208.69,-130,-130,-0.161521
+LMBA21,Sediment,Bacteria,EN17_Su2017,ERR3711525,Season,Summer,NA,NA,221.6,-48,-48,-0.154478
+LMBA21,Sediment,Bacteria,EN17_Wi2017,ERR3711531,Season,Winter,NA,NA,264.09,-64,-64,-0.156557
+LMBA21,Sediment,Bacteria,EN20_Su2017,ERR3711535,Season,Summer,NA,NA,241.5,-95,-95,-0.161277
+LMBA21,Sediment,Bacteria,EN20_Wi2017,ERR3711542,Season,Winter,NA,NA,264.89,-7,-7,-0.164909
+LMBA21,Sediment,Bacteria,EN30_Su2017,ERR3711547,Season,Summer,NA,NA,236.92,383,383,-0.146904
+LMBA21,Sediment,Bacteria,EN30_Wi2017,ERR3711552,Season,Winter,NA,NA,255.48,370,370,-0.14648
+LMBA21,Sediment,Bacteria,EO05_Wi2017,ERR3711559,Season,Winter,NA,NA,240.15,-33,-33,-0.161665
+LMBA21,Sediment,Bacteria,EO10_Wi2017,ERR3711566,Season,Winter,NA,NA,237.19,436,436,-0.148544
+LMBA21,Sediment,Bacteria,EO10_Wi2017,ERR3711567,Season,Winter,NA,NA,237.19,436,436,-0.148251
+LMBA21,Sediment,Bacteria,EOI10_Su2017,ERR3711571,Season,Summer,NA,NA,235.85,-204,-204,-0.162628
+LMBA21,Sediment,Bacteria,EOI10_Wi2017,ERR3711577,Season,Winter,NA,NA,233.43,-64,-64,-0.16522
+LMBA21,Sediment,Bacteria,EOI15_Su2017,ERR3711582,Season,Summer,NA,NA,219.44,-202,-202,-0.16273
+LMBA21,Sediment,Bacteria,EOI15_Wi2017,ERR3711588,Season,Winter,NA,NA,254.94,144,144,-0.149187
+LMBA21,Sediment,Bacteria,EOI20_Su2017,ERR3711592,Season,Summer,NA,NA,254.4,-153,-153,-0.157767
+LMBA21,Sediment,Bacteria,EOI20_Wi2017,ERR3711600,Season,Winter,NA,NA,256.02,-174,-174,-0.155173
+LMBA21,Sediment,Bacteria,EOK05_Su2017,ERR3711603,Season,Summer,NA,NA,104.34,-33,-33,-0.162347
+LMBA21,Sediment,Bacteria,EOK05_Wi2017,ERR3711609,Season,Winter,NA,NA,180.45,-42,-42,-0.16137
+LMBA21,Sediment,Bacteria,EB05_Wi2017,ERR3711415,Season,Winter,NA,NA,233.97,76,76,-0.156151
+LMBA21,Sediment,Bacteria,EB07_Wi2017,ERR3711423,Season,Winter,NA,NA,236.39,166,166,-0.155337
+LMBA21,Sediment,Bacteria,EB10_Wi2017,ERR3711430,Season,Winter,NA,NA,261.93,110,110,-0.157824
+LMBA21,Sediment,Bacteria,EBI05_Wi2017,ERR3711437,Season,Winter,NA,NA,241.5,476,476,-0.151797
+LMBA21,Sediment,Bacteria,EBI10_Wi2017,ERR3711443,Season,Winter,NA,NA,221.86,246,246,-0.154468
+LMBA21,Sediment,Bacteria,EBI20_Wi2017,ERR3711449,Season,Winter,NA,NA,246.34,396,396,-0.147691
+LMBA21,Sediment,Bacteria,ED05_Wi2017,ERR3711461,Season,Winter,NA,NA,296.9,188,188,-0.157498
+LMBA21,Sediment,Bacteria,ED10_Wi2017,ERR3711471,Season,Winter,NA,NA,221.33,176,176,-0.153839
+LMBA21,Sediment,Bacteria,EL05_Wi2017,ERR3711478,Season,Winter,NA,NA,264.62,161,161,-0.156179
+LMBA21,Sediment,Bacteria,EL05_Wi2017,ERR3711479,Season,Winter,NA,NA,264.62,161,161,-0.156152
+LMBA21,Sediment,Bacteria,EL10_Wi2017,ERR3711487,Season,Winter,NA,NA,219.44,319,319,-0.155114
+LMBA21,Sediment,Bacteria,EM05_Wi2017,ERR3711494,Season,Winter,NA,NA,246.34,129,129,-0.153205
+LMBA21,Sediment,Bacteria,EM10_Wi2017,ERR3711502,Season,Winter,NA,NA,259.25,394,394,-0.143334
+LMBA21,Sediment,Bacteria,EN10_Wi2017,ERR3711511,Season,Winter,NA,NA,211.38,-47,-47,-0.163207
+LMBA21,Sediment,Bacteria,EA05_Wi2017,ERR3711400,Season,Winter,NA,NA,257.9,353,353,-0.153396
+LMBA21,Sediment,Bacteria,EA10_Wi2017,ERR3711407,Season,Winter,NA,NA,200.89,-94,-94,-0.168388
+LMBA21,Sediment,Archaea,EOK20_Wi2017,ERR3711629,Season,Winter,NA,NA,301.2,66,66,-0.188106
+LMBA21,Sediment,Archaea,EUR10_Wi2017,ERR3711678,Season,Winter,NA,NA,268.39,373,373,-0.187964
+LMBA21,Sediment,Archaea,LN10_Wi2017,ERR3711697,Season,Winter,NA,NA,254.67,286,286,-0.188195
+LMBA21,Sediment,Archaea,LN20_Wi2017,ERR3711699,Season,Winter,NA,NA,254.67,433,433,-0.188147
+LMBA21,Sediment,Archaea,LUR20_Wi2017,ERR3711708,Season,Winter,NA,NA,252.25,340,340,-0.187668
+LMBA21,Sediment,Archaea,EN15_Su2017,ERR3711514,Season,Summer,NA,NA,NA,-54,-54,-0.19316
+LMBA21,Sediment,Archaea,EN17_Su2017,ERR3711525,Season,Summer,NA,NA,221.6,-48,-48,-0.188475
+LMBA21,Sediment,Archaea,EN20_Su2017,ERR3711535,Season,Summer,NA,NA,241.5,-95,-95,-0.194791
+LMBA21,Sediment,Archaea,EN20_Wi2017,ERR3711542,Season,Winter,NA,NA,264.89,-7,-7,-0.195137
+LMBA21,Sediment,Archaea,EN30_Su2017,ERR3711547,Season,Summer,NA,NA,236.92,383,383,-0.188396
+LMBA21,Sediment,Archaea,EN30_Wi2017,ERR3711552,Season,Winter,NA,NA,255.48,370,370,-0.188165
+LMBA21,Sediment,Archaea,EO10_Wi2017,ERR3711566,Season,Winter,NA,NA,237.19,436,436,-0.189137
+LMBA21,Sediment,Archaea,EO10_Wi2017,ERR3711567,Season,Winter,NA,NA,237.19,436,436,-0.189466
+LMBA21,Sediment,Archaea,EOI15_Su2017,ERR3711582,Season,Summer,NA,NA,219.44,-202,-202,-0.191321
+LMBA21,Sediment,Archaea,EOI20_Su2017,ERR3711592,Season,Summer,NA,NA,254.4,-153,-153,-0.194719
+LMBA21,Sediment,Archaea,EOI20_Wi2017,ERR3711600,Season,Winter,NA,NA,256.02,-174,-174,-0.189016
+LMBA21,Sediment,Archaea,EBI20_Wi2017,ERR3711449,Season,Winter,NA,NA,246.34,396,396,-0.188035
+LMBA21,Sediment,Archaea,EM10_Wi2017,ERR3711502,Season,Winter,NA,NA,259.25,394,394,-0.191544
 HSF+22,Sediment,Bacteria,ALD_CC_K01_01,SRR11295435,Location,Cinq Cases,NA,6.998,NA,-41,-41.12,-0.140632
 HSF+22,Sediment,Bacteria,ALD_CC_K01_02,SRR11295431,Location,Cinq Cases,NA,6.998,NA,-41,-41.12,-0.156422
 HSF+22,Sediment,Bacteria,ALD_CC_K01_03,SRR11295425,Location,Cinq Cases,NA,6.9,NA,85,79.08,-0.156873
@@ -3454,62 +3454,62 @@ RKSK22,Soil,Archaea,Sapelo2019_Rhizosphere_T4_P3_0-5,SRR12995376,Compartment,Rhi
 RKSK22,Soil,Archaea,Sapelo2019_Rhizosphere_T4_P3_5-10,SRR12995377,Compartment,Rhizosphere,NA,6.3,NA,-361,-402.41,-0.208711
 RKSK22,Soil,Archaea,Sapelo2019_Endosphere_T3_P3_5-10,SRR12995413,Compartment,Root,NA,6.6,NA,-388.5,-412.16,-0.196359
 RKSK22,Soil,Archaea,Sapelo2019_Endosphere_T3_P3_5-10_b,SRR12995414,Compartment,Root,NA,6.6,NA,-388.5,-412.16,-0.202302
-DLS21_Bulk,Soil,Bacteria,1AB,SRR13375755,Treatment,Control,NA,7.53,NA,73,104.35,-0.150926
-DLS21_Bulk,Soil,Bacteria,2AB,SRR13375744,Treatment,Char,NA,7.6,NA,69,104.49,-0.150728
-DLS21_Bulk,Soil,Bacteria,3AB,SRR13375731,Treatment,Silicate,NA,7.54,NA,46,77.94,-0.162474
-DLS21_Bulk,Soil,Bacteria,4AB,SRR13375716,Treatment,Char,NA,7.6,NA,69,104.49,-0.159874
-DLS21_Bulk,Soil,Bacteria,5AB,SRR13375702,Treatment,Husk,NA,7.11,NA,-24,-17.49,-0.147974
-DLS21_Bulk,Soil,Bacteria,6AB,SRR13375689,Treatment,Silicate,NA,7.54,NA,46,77.94,-0.162271
-DLS21_Bulk,Soil,Bacteria,7AB,SRR13375819,Treatment,Husk,NA,7.11,NA,-24,-17.49,-0.157159
-DLS21_Bulk,Soil,Bacteria,8AB,SRR13375808,Treatment,Husk,NA,7.11,NA,-24,-17.49,-0.154985
-DLS21_Bulk,Soil,Bacteria,9AB,SRR13375799,Treatment,Control,NA,7.53,NA,73,104.35,-0.167235
-DLS21_Bulk,Soil,Bacteria,10AB,SRR13375829,Treatment,Control,NA,7.53,NA,73,104.35,-0.15636
-DLS21_Bulk,Soil,Bacteria,11AB,SRR13375777,Treatment,Silicate,NA,7.54,NA,46,77.94,-0.154936
-DLS21_Bulk,Soil,Bacteria,12AB,SRR13375766,Treatment,Char,NA,7.6,NA,69,104.49,-0.146504
-DLS21_Bulk,Soil,Bacteria,1BB,SRR13375753,Treatment,Control,NA,7.87,NA,93,144.47,-0.154622
-DLS21_Bulk,Soil,Bacteria,2BB,SRR13375740,Treatment,Char,NA,7.92,NA,94,148.42,-0.152827
-DLS21_Bulk,Soil,Bacteria,3BB,SRR13375727,Treatment,Silicate,NA,7.68,NA,51,91.23,-0.162026
-DLS21_Bulk,Soil,Bacteria,4BB,SRR13375714,Treatment,Char,NA,7.92,NA,94,148.42,-0.153451
-DLS21_Bulk,Soil,Bacteria,5BB,SRR13375699,Treatment,Husk,NA,7.47,NA,10,37.8,-0.150183
-DLS21_Bulk,Soil,Bacteria,6BB,SRR13375687,Treatment,Silicate,NA,7.68,NA,51,91.23,-0.162359
-DLS21_Bulk,Soil,Bacteria,7BB,SRR13375817,Treatment,Husk,NA,7.47,NA,10,37.8,-0.153514
-DLS21_Bulk,Soil,Bacteria,9BB,SRR13375797,Treatment,Control,NA,7.87,NA,93,144.47,-0.150727
-DLS21_Bulk,Soil,Bacteria,10BB,SRR13375774,Treatment,Control,NA,7.87,NA,93,144.47,-0.150951
-DLS21_Bulk,Soil,Bacteria,12BB,SRR13375764,Treatment,Char,NA,7.92,NA,94,148.42,-0.14605
-DLS21_Bulk,Soil,Bacteria,1CB,SRR13375750,Treatment,Control,NA,7.92,NA,113,167.42,-0.156858
-DLS21_Bulk,Soil,Bacteria,2CB,SRR13375738,Treatment,Char,NA,7.97,NA,177,234.38,-0.140062
-DLS21_Bulk,Soil,Bacteria,3CB,SRR13375725,Treatment,Silicate,NA,7.83,NA,132,181.1,-0.155282
-DLS21_Bulk,Soil,Bacteria,4CB,SRR13375711,Treatment,Char,NA,7.97,NA,177,234.38,-0.15354
-DLS21_Bulk,Soil,Bacteria,6CB,SRR13375825,Treatment,Silicate,NA,7.83,NA,132,181.1,-0.162981
-DLS21_Bulk,Soil,Bacteria,7CB,SRR13375814,Treatment,Husk,NA,7.72,NA,23,65.59,-0.159934
-DLS21_Bulk,Soil,Bacteria,8CB,SRR13375804,Treatment,Husk,NA,7.72,NA,23,65.59,-0.148976
-DLS21_Bulk,Soil,Bacteria,9CB,SRR13375795,Treatment,Control,NA,7.92,NA,113,167.42,-0.151603
-DLS21_Bulk,Soil,Bacteria,10CB,SRR13375741,Treatment,Control,NA,7.92,NA,113,167.42,-0.149763
-DLS21_Bulk,Soil,Bacteria,11CB,SRR13375772,Treatment,Silicate,NA,7.83,NA,132,181.1,-0.157778
-DLS21_Bulk,Soil,Bacteria,12CB,SRR13375760,Treatment,Char,NA,7.97,NA,177,234.38,-0.152431
-DLS21_Bulk,Soil,Bacteria,1DB,SRR13375748,Treatment,Control,NA,7.97,NA,21,78.38,-0.152154
-DLS21_Bulk,Soil,Bacteria,2DB,SRR13375735,Treatment,Char,NA,8.01,NA,196,255.75,-0.149361
-DLS21_Bulk,Soil,Bacteria,3DB,SRR13375722,Treatment,Silicate,NA,8.19,NA,99,169.4,-0.160503
-DLS21_Bulk,Soil,Bacteria,4DB,SRR13375707,Treatment,Char,NA,8.01,NA,196,255.75,-0.150072
-DLS21_Bulk,Soil,Bacteria,5DB,SRR13375694,Treatment,Husk,NA,7.81,NA,-25,22.92,-0.150729
-DLS21_Bulk,Soil,Bacteria,6DB,SRR13375823,Treatment,Silicate,NA,8.19,NA,99,169.4,-0.159699
-DLS21_Bulk,Soil,Bacteria,7DB,SRR13375812,Treatment,Husk,NA,7.81,NA,-25,22.92,-0.151011
-DLS21_Bulk,Soil,Bacteria,8DB,SRR13375802,Treatment,Husk,NA,7.81,NA,-25,22.92,-0.14917
-DLS21_Bulk,Soil,Bacteria,9DB,SRR13375792,Treatment,Control,NA,7.97,NA,21,78.38,-0.15486
-DLS21_Bulk,Soil,Bacteria,10DB,SRR13375719,Treatment,Control,NA,7.97,NA,21,78.38,-0.148083
-DLS21_Bulk,Soil,Bacteria,11DB,SRR13375770,Treatment,Silicate,NA,8.19,NA,99,169.4,-0.162124
-DLS21_Bulk,Soil,Bacteria,12DB,SRR13375758,Treatment,Char,NA,8.01,NA,196,255.75,-0.150605
-DLS21_Bulk,Soil,Bacteria,1EB,SRR13375746,Treatment,Control,NA,7.88,NA,81,133.06,-0.158562
-DLS21_Bulk,Soil,Bacteria,2EB,SRR13375733,Treatment,Char,NA,8.01,NA,150,209.75,-0.155119
-DLS21_Bulk,Soil,Bacteria,3EB,SRR13375720,Treatment,Silicate,NA,7.84,NA,105,154.69,-0.166371
-DLS21_Bulk,Soil,Bacteria,4EB,SRR13375705,Treatment,Char,NA,8.01,NA,150,209.75,-0.163182
-DLS21_Bulk,Soil,Bacteria,5EB,SRR13375692,Treatment,Husk,NA,7.44,NA,-8,18.03,-0.152998
-DLS21_Bulk,Soil,Bacteria,6EB,SRR13375821,Treatment,Silicate,NA,7.84,NA,105,154.69,-0.16475
-DLS21_Bulk,Soil,Bacteria,7EB,SRR13375810,Treatment,Husk,NA,7.44,NA,-8,18.03,-0.156472
-DLS21_Bulk,Soil,Bacteria,8EB,SRR13375800,Treatment,Husk,NA,7.44,NA,-8,18.03,-0.155348
-DLS21_Bulk,Soil,Bacteria,9EB,SRR13375790,Treatment,Control,NA,7.88,NA,81,133.06,-0.156574
-DLS21_Bulk,Soil,Bacteria,10EB,SRR13375697,Treatment,Control,NA,7.88,NA,81,133.06,-0.159448
-DLS21_Bulk,Soil,Bacteria,11EB,SRR13375768,Treatment,Silicate,NA,7.84,NA,105,154.69,-0.166128
+DLS21,Soil,Bacteria,1AB,SRR13375755,Treatment,Control,NA,7.53,NA,73,104.35,-0.150926
+DLS21,Soil,Bacteria,2AB,SRR13375744,Treatment,Char,NA,7.6,NA,69,104.49,-0.150728
+DLS21,Soil,Bacteria,3AB,SRR13375731,Treatment,Silicate,NA,7.54,NA,46,77.94,-0.162474
+DLS21,Soil,Bacteria,4AB,SRR13375716,Treatment,Char,NA,7.6,NA,69,104.49,-0.159874
+DLS21,Soil,Bacteria,5AB,SRR13375702,Treatment,Husk,NA,7.11,NA,-24,-17.49,-0.147974
+DLS21,Soil,Bacteria,6AB,SRR13375689,Treatment,Silicate,NA,7.54,NA,46,77.94,-0.162271
+DLS21,Soil,Bacteria,7AB,SRR13375819,Treatment,Husk,NA,7.11,NA,-24,-17.49,-0.157159
+DLS21,Soil,Bacteria,8AB,SRR13375808,Treatment,Husk,NA,7.11,NA,-24,-17.49,-0.154985
+DLS21,Soil,Bacteria,9AB,SRR13375799,Treatment,Control,NA,7.53,NA,73,104.35,-0.167235
+DLS21,Soil,Bacteria,10AB,SRR13375829,Treatment,Control,NA,7.53,NA,73,104.35,-0.15636
+DLS21,Soil,Bacteria,11AB,SRR13375777,Treatment,Silicate,NA,7.54,NA,46,77.94,-0.154936
+DLS21,Soil,Bacteria,12AB,SRR13375766,Treatment,Char,NA,7.6,NA,69,104.49,-0.146504
+DLS21,Soil,Bacteria,1BB,SRR13375753,Treatment,Control,NA,7.87,NA,93,144.47,-0.154622
+DLS21,Soil,Bacteria,2BB,SRR13375740,Treatment,Char,NA,7.92,NA,94,148.42,-0.152827
+DLS21,Soil,Bacteria,3BB,SRR13375727,Treatment,Silicate,NA,7.68,NA,51,91.23,-0.162026
+DLS21,Soil,Bacteria,4BB,SRR13375714,Treatment,Char,NA,7.92,NA,94,148.42,-0.153451
+DLS21,Soil,Bacteria,5BB,SRR13375699,Treatment,Husk,NA,7.47,NA,10,37.8,-0.150183
+DLS21,Soil,Bacteria,6BB,SRR13375687,Treatment,Silicate,NA,7.68,NA,51,91.23,-0.162359
+DLS21,Soil,Bacteria,7BB,SRR13375817,Treatment,Husk,NA,7.47,NA,10,37.8,-0.153514
+DLS21,Soil,Bacteria,9BB,SRR13375797,Treatment,Control,NA,7.87,NA,93,144.47,-0.150727
+DLS21,Soil,Bacteria,10BB,SRR13375774,Treatment,Control,NA,7.87,NA,93,144.47,-0.150951
+DLS21,Soil,Bacteria,12BB,SRR13375764,Treatment,Char,NA,7.92,NA,94,148.42,-0.14605
+DLS21,Soil,Bacteria,1CB,SRR13375750,Treatment,Control,NA,7.92,NA,113,167.42,-0.156858
+DLS21,Soil,Bacteria,2CB,SRR13375738,Treatment,Char,NA,7.97,NA,177,234.38,-0.140062
+DLS21,Soil,Bacteria,3CB,SRR13375725,Treatment,Silicate,NA,7.83,NA,132,181.1,-0.155282
+DLS21,Soil,Bacteria,4CB,SRR13375711,Treatment,Char,NA,7.97,NA,177,234.38,-0.15354
+DLS21,Soil,Bacteria,6CB,SRR13375825,Treatment,Silicate,NA,7.83,NA,132,181.1,-0.162981
+DLS21,Soil,Bacteria,7CB,SRR13375814,Treatment,Husk,NA,7.72,NA,23,65.59,-0.159934
+DLS21,Soil,Bacteria,8CB,SRR13375804,Treatment,Husk,NA,7.72,NA,23,65.59,-0.148976
+DLS21,Soil,Bacteria,9CB,SRR13375795,Treatment,Control,NA,7.92,NA,113,167.42,-0.151603
+DLS21,Soil,Bacteria,10CB,SRR13375741,Treatment,Control,NA,7.92,NA,113,167.42,-0.149763
+DLS21,Soil,Bacteria,11CB,SRR13375772,Treatment,Silicate,NA,7.83,NA,132,181.1,-0.157778
+DLS21,Soil,Bacteria,12CB,SRR13375760,Treatment,Char,NA,7.97,NA,177,234.38,-0.152431
+DLS21,Soil,Bacteria,1DB,SRR13375748,Treatment,Control,NA,7.97,NA,21,78.38,-0.152154
+DLS21,Soil,Bacteria,2DB,SRR13375735,Treatment,Char,NA,8.01,NA,196,255.75,-0.149361
+DLS21,Soil,Bacteria,3DB,SRR13375722,Treatment,Silicate,NA,8.19,NA,99,169.4,-0.160503
+DLS21,Soil,Bacteria,4DB,SRR13375707,Treatment,Char,NA,8.01,NA,196,255.75,-0.150072
+DLS21,Soil,Bacteria,5DB,SRR13375694,Treatment,Husk,NA,7.81,NA,-25,22.92,-0.150729
+DLS21,Soil,Bacteria,6DB,SRR13375823,Treatment,Silicate,NA,8.19,NA,99,169.4,-0.159699
+DLS21,Soil,Bacteria,7DB,SRR13375812,Treatment,Husk,NA,7.81,NA,-25,22.92,-0.151011
+DLS21,Soil,Bacteria,8DB,SRR13375802,Treatment,Husk,NA,7.81,NA,-25,22.92,-0.14917
+DLS21,Soil,Bacteria,9DB,SRR13375792,Treatment,Control,NA,7.97,NA,21,78.38,-0.15486
+DLS21,Soil,Bacteria,10DB,SRR13375719,Treatment,Control,NA,7.97,NA,21,78.38,-0.148083
+DLS21,Soil,Bacteria,11DB,SRR13375770,Treatment,Silicate,NA,8.19,NA,99,169.4,-0.162124
+DLS21,Soil,Bacteria,12DB,SRR13375758,Treatment,Char,NA,8.01,NA,196,255.75,-0.150605
+DLS21,Soil,Bacteria,1EB,SRR13375746,Treatment,Control,NA,7.88,NA,81,133.06,-0.158562
+DLS21,Soil,Bacteria,2EB,SRR13375733,Treatment,Char,NA,8.01,NA,150,209.75,-0.155119
+DLS21,Soil,Bacteria,3EB,SRR13375720,Treatment,Silicate,NA,7.84,NA,105,154.69,-0.166371
+DLS21,Soil,Bacteria,4EB,SRR13375705,Treatment,Char,NA,8.01,NA,150,209.75,-0.163182
+DLS21,Soil,Bacteria,5EB,SRR13375692,Treatment,Husk,NA,7.44,NA,-8,18.03,-0.152998
+DLS21,Soil,Bacteria,6EB,SRR13375821,Treatment,Silicate,NA,7.84,NA,105,154.69,-0.16475
+DLS21,Soil,Bacteria,7EB,SRR13375810,Treatment,Husk,NA,7.44,NA,-8,18.03,-0.156472
+DLS21,Soil,Bacteria,8EB,SRR13375800,Treatment,Husk,NA,7.44,NA,-8,18.03,-0.155348
+DLS21,Soil,Bacteria,9EB,SRR13375790,Treatment,Control,NA,7.88,NA,81,133.06,-0.156574
+DLS21,Soil,Bacteria,10EB,SRR13375697,Treatment,Control,NA,7.88,NA,81,133.06,-0.159448
+DLS21,Soil,Bacteria,11EB,SRR13375768,Treatment,Silicate,NA,7.84,NA,105,154.69,-0.166128
 WKP+22,Soil,Bacteria,K20-144-J-16S_R1,SRR17062254,Type,Intercropping,NA,6.07,NA,509.23,454.21,-0.144843
 WKP+22,Soil,Bacteria,K20-145-J-16S_R1,SRR17062253,Type,Intercropping,NA,6.07,NA,526.5,471.48,-0.144599
 WKP+22,Soil,Bacteria,K20-146-J-16S_R1,SRR17062255,Type,Intercropping,NA,7.9,NA,493.6,546.84,-0.146301
