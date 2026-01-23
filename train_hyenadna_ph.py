@@ -331,7 +331,8 @@ def load_dataset_from_hf(
         filter_missing_ph: Whether to filter samples with missing pH
 
     Returns:
-        List of dicts with 'sequences', 'pH', 'study_name', 'sample_id'
+        List of dicts with 'sequences', 'pH', 'study_name', 'sample_id', 'environment'
+        Sorted by sample_id for consistent ordering across workflows.
     """
     print(f"Loading dataset from {dataset_repo}...")
     dataset = load_dataset(dataset_repo, split="train")
@@ -348,8 +349,12 @@ def load_dataset_from_hf(
                 "pH": item["pH"] if item["pH"] is not None else 0.0,
                 "study_name": item["study_name"],
                 "sample_id": item["sample_id"],
+                "environment": item.get("environment", "unknown"),
             }
         )
+
+    # Sort by sample_id to ensure consistent ordering across workflows
+    data.sort(key=lambda x: x["sample_id"])
 
     print(f"Loaded {len(data)} samples")
     return data
@@ -680,9 +685,10 @@ def main():
     print("Creating stratified train-val-test split (75:5:20)...")
 
     # Extract sample_ids, pH, and environment for stratification
+    # Data is already sorted by sample_id from load_dataset_from_hf
     sample_ids = [d["sample_id"] for d in data]
     ph_values = [d["pH"] for d in data]
-    environments = [d.get("environment", "unknown") for d in data]
+    environments = [d["environment"] for d in data]
 
     # First split: 80% train+val, 20% test (same as traditional ML)
     ids_trainval, ids_test, data_trainval, data_test, env_trainval, env_test = (

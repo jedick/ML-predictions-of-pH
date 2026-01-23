@@ -68,11 +68,13 @@ def load_and_preprocess_data(dataset_repo, phylum_counts_path, random_seed=42):
                     "study_name": item["study_name"],
                     "sample_id": item["sample_id"],
                     "pH": item["pH"],
-                    "environment": item["environment"],
+                    "environment": item.get("environment", "unknown"),
                 }
             )
 
     sample_data = pd.DataFrame(sample_data_list)
+    # Sort by sample_id to ensure consistent ordering (same as train_hyenadna_ph.py)
+    sample_data = sample_data.sort_values("sample_id").reset_index(drop=True)
     print(f"Sample data shape after filtering (null pH removed): {sample_data.shape}")
 
     # Create stratified 80:20 train-test split on HF dataset (before merging with phylum counts)
@@ -82,7 +84,7 @@ def load_and_preprocess_data(dataset_repo, phylum_counts_path, random_seed=42):
     environment = sample_data["environment"].values
 
     ids_train, ids_test = train_test_split(
-        sample_ids,
+        sample_ids.tolist(),
         test_size=0.2,
         random_state=random_seed,
         stratify=environment,

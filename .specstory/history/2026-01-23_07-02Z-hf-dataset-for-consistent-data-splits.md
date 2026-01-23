@@ -20215,3 +20215,109 @@ Please update the README to indicate the new data flow. The sections should be o
 
 ---
 
+_**Agent (model default, mode Agent)**_
+
+
+Reviewing the README structure:
+
+
+---
+
+<tool-use data-tool-type="read" data-tool-name="read_file_v2">
+<details><summary>Tool use: **read_file_v2** • Read file: /home/jedick/github/microbial-pH-predictions/README.md</summary>
+
+</details>
+</tool-use>
+
+---
+
+
+Updating the README to reflect the new data flow:
+
+
+---
+
+<tool-use data-tool-type="write" data-tool-name="edit_file_v2">
+
+<details><summary>Tool use: **edit_file_v2** • Edit file: /home/jedick/github/microbial-pH-predictions/README.md</summary>
+
+</details>
+
+</tool-use>
+
+---
+
+<tool-use data-tool-type="write" data-tool-name="edit_file_v2">
+
+<details><summary>Tool use: **edit_file_v2** • Edit file: /home/jedick/github/microbial-pH-predictions/README.md</summary>
+
+</details>
+
+</tool-use>
+
+---
+
+<tool-use data-tool-type="write" data-tool-name="edit_file_v2">
+
+<details><summary>Tool use: **edit_file_v2** • Edit file: /home/jedick/github/microbial-pH-predictions/README.md</summary>
+
+</details>
+
+</tool-use>
+
+---
+
+<tool-use data-tool-type="write" data-tool-name="edit_file_v2">
+
+<details><summary>Tool use: **edit_file_v2** • Edit file: /home/jedick/github/microbial-pH-predictions/README.md</summary>
+
+</details>
+
+</tool-use>
+
+---
+
+
+Verifying the README structure and checking for any remaining references to update:
+
+
+---
+
+<tool-use data-tool-type="read" data-tool-name="read_file_v2">
+<details><summary>Tool use: **read_file_v2** • Read file: /home/jedick/github/microbial-pH-predictions/README.md</summary>
+
+</details>
+</tool-use>
+
+---
+
+
+## Summary of Changes
+
+1. **Reordered sections**:
+   - SRA data download
+   - Hugging Face dataset creation
+   - RDP phylum counts (features) (renamed from "Data processing")
+   - pH prediction from phylum counts (renamed from "pH prediction workflow")
+   - pH prediction from HyenaDNA sequence model (renamed from "HyenaDNA pH regression training")
+
+2. **Added note to Hugging Face dataset creation**:
+   - States it is the single source of truth for sample data
+   - Notes that `sample_data.csv` is not required after this step
+   - Explains it ensures consistent train-test splits between workflows
+
+3. **Updated both prediction sections**:
+   - Both workflows now use the HuggingFace dataset
+   - Both use the same random seed (42) and produce the same test split
+   - Updated command examples to use `--dataset-repo` instead of `--sample-data`
+
+The README now reflects the new data flow where the HuggingFace dataset is the central data source for both workflows.
+
+---
+
+_**User**_
+
+It seems that the test sets in the two workflows have different sample_ids, but I'd like them to be the same. Can you check the sample ids in the test sets and find a ffix if they aren't the same?
+
+---
+
