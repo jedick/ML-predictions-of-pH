@@ -1,21 +1,21 @@
 Model: KNN
 Random Seed: 42
 Number of features: 164
-Train set size: 1748
-Test set size: 437
+Train set size: 1868
+Test set size: 468
 
 Grid Search:
   Mode: full
   CV folds: 5
   Number of combinations: 24
-  Time elapsed: 6.82 seconds
-  Best parameters: {'regressor__n_neighbors': 3, 'regressor__p': 1, 'regressor__weights': 'distance'}
-  Best CV RMSE: 0.7494
+  Time elapsed: 9.21 seconds
+  Best parameters: {'regressor__n_neighbors': 20, 'regressor__p': 1, 'regressor__weights': 'distance'}
+  Best CV RMSE: 1.3020
 
 Final Model Metrics:
 Train RMSE: 0.0000
-Test RMSE:  0.6716
+Test RMSE:  1.0024
 Train R-squared:   1.0000
-Test R-squared:    0.7495
+Test R-squared:    0.4945
 Train MAE:  0.0000
-Test MAE:   0.4199
+Test MAE:   0.6109
